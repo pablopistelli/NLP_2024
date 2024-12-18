@@ -1,0 +1,193 @@
+Resumen  del TuRno
+En verano e invierno, en orden de turno(tabla de despertador), cada 
+jugador puede colocar un trabajador en un espacio de acción de la 
+estación actual. Solo se pueden elegir acciones que se puedan realizar. 
+Cada trabajador que se use, solo se recuperara hasta finalizar el año. 
+Un jugador puede pasar, si lo hace, no podrá tomar mas acciones 
+durante esa estación; para indicarlo mueve la ficha de gallo del 
+jugador(a la derecha en verano, a la izquierda en invierno). Continua 
+jugando en orden de turno hasta que todos los jugadores hayan 
+pasado, luego avancen a la siguiente estación.
+Espacios  dE acción : En partidas de 2 jugadores, solo usa el espacio de 
+acción de la izquierda. Con 3-4 jugadores utiliza también el espacio 
+de la mitad (espacio de bonificación). Con 5-6 jugadores usa los tres 
+espacios- Los espacios disponibles se pueden usar en cualquier orden.
+Usar Espacios  dE Bonificación  ♦: Puedes recibir la bonificación antes o 
+después de la acción principal (o no usarla).
+Variant E amistosa  ♦: Solo puedes usar el espacio de bonificación si estas  
+en capacidad de completar la acción y recibir la bonificación, omite esta 
+regla si todos los demás espacios de esa acción estén ocupados.
+Guía de ConsTR uCCión
+trEllis (Emparrado ) (
+2 ): Puedes cultivar vides que tengan 
+este requisito.
+irrigation (irrigación ) (
+3 ): Puedes cultivar vides que tengan 
+este requisito
+Windmill (molino ) (
+5 ): Recibe 
+ 1 cuando siembres una vid 
+(max. 1 PV/año).
+tasting  room(sala dE cata) (
+6 ): Recibe 
+ 1 cuando des un 
+recorrido por el viñedo.  (max 1 PV/año).
+cottagE (caBaña )(
+4): Recibe una carta de visitante 
+adicional(de verano o invierno) durante el otoño. Tómalas 
+todas al mismo tiempo.
+YokE(YUgo) ♦ (
+2 ): Arranca o Cosecha un Terreno, una vez 
+por año(mira “Acciones de Yugo” al respaldo). Solo puede 
+usarlo el jugador que lo haya construido.
+mEdiUm cEllar(BodEga mEdiana) (
+4): Permite hacer vinos de valor 
+4-6 (se requiere para vinos rosados).
+largE cEllar (BodEga  grandE ) (
+6 ): Permite hacer vinos de 
+valor 6-9(se requiere para vinos espumosos). Es requisito 
+tener la bodega mediana.TRabajadoR  GRande  ♦ ♦	
+Es uno de los 3 trabajadores iniciales. Ademas de actuar como un 
+trabajador normal, puede ser colocado en una acción que tenga todos 
+los espacios ocupados y realizarla; al usarlo de este modo, no recibirás la bonificación asociada con la acción.
+dev aluaR
+Si una ficha uva o vino debe ser colocada en un espacio con una ficha 
+del mismo valor o si la bodega requerida no se ha construido, esta ficha 
+deberá ser colocada en el siguiente espacio de menor valor que este 
+libre. Si no hay ningún espacio disponible, esa uva o vino se perderá.
+CoseChaR  un TeRReno
+Usa la acción Cosecha un Terreno(Harvest One Field)para cosechar 
+en solo un terreno. Suma los calores de todas las vides de uvas rojas 
+y coloca una ficha en el lugar correspondiente de tu lagar para uvas 
+rojas(devalúa si es necesario).Haz lo mismo con las uvas blancas. 
+Como máximo, cosechar te dará una uva de cada tipo en tu lagar. Las 
+cartas de vid permanecen en el terreno, no podrá cosecharse este 
+terreno nuevamente durante este año.
+haCeR vino ♦
+Usa la acción Hacer Vino(Make Wine)para convertir fichas de uva en 
+hasta 2 fichas de vino de cualquier tipo, según las siguientes reglas. 
+Debes tener la bodega correspondiente. Devalúa si es necesario.
+tinto o Blanco : Cada uva en el lagar producirá un vino del mismo tipo y 
+valor en la bodega. Mueve la ficha de uva al numero correspondiente en la 
+bodega. No sumes valores.
+rosado  (rEqUiErE : BodEga  pEqUEña ): Usa 1 uva roja y 1 blanca, suma 
+sus valores(el resultado debe ser mínimo 4) para crear 1 vino rosado. 
+Coloca una ficha en el espacio correspondiente, descarta la otra.
+EspUmoso  (rEqUiErE : BodEga  grandE ): Usa 2 uvas rojas y 1 blanca . 
+suma sus valores(el resultado debe ser mínimo 7) para crear 1 vino 
+espumoso. Coloca una ficha en el espacio correspondiente, descarta las 
+otras.
+CompleT aR oRdenes  de vino
+Al usar la acción Completar Una Orden de Vino(Fill One Wine Order), 
+puedes descartar una carta de orden de vino si estas en capacidad 
+de entregar todos los vinos(del mismo o mayor valor) indicados. 
+Recibe los PV indicados en la parte inferior de la carta e incrementa la 
+posición de tu ficha de pagos residuales al monto de ₤ indicado en la 
+carta(máximo hasta 
+5 ). Aun no tomes ninguna ₤.pRepaRa Ción
+1. Cada jugador toma un viñedo y todas las fichas de un color.
+2. Cada jugador coloca sus fichas así: despertador (gallo) en la Tabla 
+de Despertador, puntos de victoria (corcho) en el espacio “INICIO” del marcador de Puntos de Victoria (PV) y pagos residuales (botella de vino) en el centro del marcador de pagos residuales (en el símbolo ₤).
+3. Todos los jugadores toman 2 trabajadores normales y 1 trabajador 
+grande 
+♦, los restantes serán la reserva.4. Entrega una carta de vid  de tipo Pinot a cada jugador. Baraja las 
+cartas de vid, visitante de verano, orden de vino y visitantes de invierno y colócalas boca abajo en los espacios correspondientes.
+5. Entrega a cada jugador una carta de visitante de verano al azar y 
+3
+.
+6. Elige aleatoriamente un jugador inicial, que recibirá la ficha de primer 
+jugador (racimo de uvas).Comienza con la estación de Primavera.Guía Rápida
+♦ Indica cambio de regla en la Segunda EdiciónrEciBE 
+: Disponible en verano e invierno. Coloca 1 trabajador y recibe 
+ . No hay limite de trabajadores en este espacio.
+accionEs  dE YUgo ♦: Solo están disponibles para el jugador que haya construido el yugo. Coloca un trabajador en el yugo y realiza una de las 
+acciones (“Arrancar” o “Sembrar”). Se puede utilizar en verano o inviern o, pero solo una vez por año.
+arranca (Uproot ): Regresa una carta de vid sembrada, desde un terreno a tu mano. 
+Cosecha( HarVEst ): Realiza la acción Cosecha Un Terreno, como se indico anteriormente.
+Fin del año
+Luego de que todos los jugadores hayan pasado en invierno, haz lo siguiente:
+añEja UVas Y Vinos: Aumenta el valor de todas las uvas y vinos, avanza las fichas 1 espacio. Necesitas haber mejorado tu bodega para añejar el 
+vino mas allá de 3 y 6. Si no se puede avanzar la ficha (ya se encuentra en  9 o no hay espacio para moverla), no aumenta el valor.
+rEgrEsa  todos  los traBajadorEs : Cada jugador recoge todos sus trabajadores, incluyendo los capacitados durante ese año.
+rEciBE pagos rEsidUalEs : Los jugadores reciben Lira(₤), de acuerdo a su posición en el Marcador de Pagos Residuales(máximo 
+5 ). Las fichas de 
+pago residual permaneces allí, hasta que el pago aumente.
+dEscartar : Todos los jugadores deben reducir el numero de su mano a 7 cartas (tu eliges cuales descartar).
+pasa El primEr  jUgador : Recoge las fichas de despertador. Pasa la ficha de primer jugador hacia la derecha(contrario al reloj) y comienza 
+nuevamente con la primavera.
+GanaR el jueGo
+Cuando un jugador alcance 20 PV, termina de jugar el año actual. El jugador con la mayor cantidad de PV gana. Resuelve los empates 
+mediante(en orden): mas liras, valor total mas alto de los vinos en la bodega  y valor total mas alto de las uvas en el lagar.
+Un jugador no puede sobrepasar 25 PV o ir debajo de -5 PV. No puedes tomar acciones que podrían causar que tus PV desciendan mas de -5.pRima ve Ra: Comenzando por el primer jugador y en sentido del reloj, 
+cada jugador coloca la ficha de despertador en un espacio desocupado 
+en la tabla de despertador y recibe la recompensa indicada a la derecha(si 
+la hay). El turno comenzara por el jugador  que despertó mas temprano 
+(numero mas bajo) y procede en orden hacia abajo.
+veRano : En orden de turno, los jugadores pueden tomar una acción 
+para colocar trabajadores en los espacios de acción amarillos.
+acción Bonificación
+jUgar 
+: Descarta una carta de visitante de 
+verano y realiza la(s) accione(s), en cualquier orden(solo si puedes cumplir totalmente los 
+requisitos mínimos de la carta).Juega una 
+adicional (resuelve 
+completamente una a la vez).
+toma 
+: Toma una carta de vid. Toma 
+ .
+VEndEr  UVas: Vende(descarta) cualquier 
+cantidad de uvas, por el precio (por uva) indicado junto al valor de la uva en el lagar.Recibe  
+1.
+rEciBir  
+2 por rEcorrido : Da un recorrido 
+por tu viñedo y recibe 
+2 .Recibe  
+ .
+constr Uir Una EstrUctUra: Construye una 
+estructura del viñedo, pagando el costo indicado y colocando la ficha en tu tablero.Recibe  
+.
+siEmBra  
+: Siembra una carta de vid de 
+tu mano en cualquier terreno. Debes tener los edificios indicados en la parte 
+superior izquierda de la carta. El valor 
+total,combinado, de las uvas en un campo no puede exceder 6.Siembra una 
+ 
+adicional(no tiene que ser en el mismo 
+terreno).oToño: En orden de turno cada jugador toma una carta de visitante 
+de verano o de visitante de invierno (si ya has construido la cabaña, 
+toma dos cartas cualquiera).
+invieRno : En orden de turno, los jugadores pueden tomar una 
+acción para colocar trabajadores en los espacios de acción azules.
+acción Bonificación
+toma 
+: Toma 1 carta de orden de vino. Toma 
+ .
+jUEga 
+: Descarta una carta de visitante 
+de invierno y realiza la(s) accione(s), en cualquier orden(solo si cumples totalmente 
+los requisitos mínimos de la carta).Juega una 
+ 
+adicional(resuelve 
+completamente una a 
+la vez).
+cosEcHa  Un tErrEno : Coloca fichas de uva 
+de 1 terreno en tu lagar. Cada terreno solo 
+puede ser cosechado una vez por año.Cosecha un terreno diferente adicional.
+HacEr Vino ♦: Convierte uvas de tu lagar en 
+hasta dos fichas de vino.Haz una ficha de vino adicional.
+paga 
+4 para capacitar  
+: Paga 
+4  para 
+colocar un trabajador de la reserva en este espacio. Se podrá usar hasta el próximo año.Recibe  
+.
+complEta  
+: Vende los vinos(descartar) 
+indicados en una carta de orden de vino para completarla. Descarta. Recibe los PV y 
+mueve tu ficha de pagos residuales al monto 
+de ₤ indicado en la carta(máximo hasta 
+5
+). 
+Aun no tomes ninguna ₤.Recibe  
+ 1.Resumen  de las esTaCiones  
+♦ Indica cambio de regla en la Segunda Edición.

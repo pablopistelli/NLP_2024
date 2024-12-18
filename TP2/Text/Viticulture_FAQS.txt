@@ -1,0 +1,68 @@
+Viticulture Essential Edition
+See details here.
+The current printings don’t have the red seal on the cover.
+Why aren’t my vineyard mats and game board double sided?
+We only print double-sided boards if we’re combining a printing with an international partner (one side is in English, the other in a different language). Several of the more recent printings have only been in English and only need printing on one side.”
+Gameplay
+How many workers can I place during my turn?
+Just one. On your turn you can place 1 worker or pass. When you pass, you cannot place other workers until the next season.
+When can I place a worker on the middle action space in a 3-6 player game?
+Each action has a bonus associated with one of the action spaces for the 3-6 player game. If you place a worker on an action space that has a bonus, you must take that action, but the bonus is optional. You may take the bonus before or after you take the action. When you place a worker, you may choose any of the action spaces available in the current season (and for the spaces available based on player count)–that is, you don’t have to choose action spaces from left to right on any action.
+Can the grande worker be placed on a private action space (i.e., the yoke)?
+The grande worker can be used as a regular worker on any action space. However, if you wish to use the grande’s special ability (the ability to place it on a full action space to take the action), you can only place the grande on the game board.
+Can I play a visitor card even if I can’t do everything the card says?
+You must be able to do the minimum requirement on the card. For example, there is a card that asks you to give a card to each player, and you gain 2 lira per player to whom you give a card. If there are 4 other players and you only have 3 cards to hand out, you can’t play the card. If a card says “up to” (i.e., Plant up to 2 vines), you must fulfill the card to some extent. In that example, you must actually plant at least 1 vine.
+If a visitor card has multiple things to do, in which order do I do them?
+Unless the card specifically states an order of operations, you can play out the stages on the card in any order.
+Does my vine card stay on the field when I harvest, or do I discard it?
+Yes! Your vine cards stay on the field when you harvest–the rules note that you cannot move vines once they are planted (unless you intentionally uproot them). Just as if you planted a vine in real life, when you harvest grapes from that vine, the vine itself stays in the ground. It’s only the grapes that come off the vine, which are represented in Viticulture by glass tokens that you place on your crushpad.
+Can I harvest the same field more than once per year?
+No, you can only harvest each field once per year. If you take the bonus action space for harvesting a field (it says “x2”), it means that you get to harvest 2 fields instead of just 1.
+How many wine tokens can I make when I crush grapes?
+This action has been changed from “crush grapes” to “make up to 2 wine tokens.” Thus you may make 1 or 2 wine tokens of any type of wine (each token may be a different type of wine). If you place a worker on the bonus action space, you may make an additional wine token.
+How do I make blush or sparkling wine?
+To make a single blush wine token, you must combine one red grape token and one white grape token. You add their values together to determine the value of the blush wine token. Similarly, you make sparkling wine by combining two red grape tokens and one white grape token (it might seem odd, but that’s the most common way of making sparkling wine). You cannot combine two same-color grapes (i.e., you can’t add a 1-value white grape and a 2-value white grape to make a 3-value white wine).
+How does the “Hire Out Extra Workers for 1 lira” (this is simply “Gain 1 lira” in the second edition) action space work?
+This action space is on the board to help players when there are no other actions to take in the summer or winter (or when you need an extra lira). You use your turn to place one worker on that action space, and you gain 1 lira. You (and other players) may place any number of workers on that space over the course of a year–there is no limit.
+Do I get my workers back at the end of summer?
+No, you don’t get your workers back until the end of the year. Thus you need to plan ahead each year if you need to save some workers for the winter.
+When I use the bonus middle action space to play 2 visitor cards, what is the order of operations?
+You select and play them one at a time, resolving the effects of the first before selecting and playing the second.
+Can I build a large cellar before I build a medium cellar?
+Nope. Good try, though!
+Can I combine wine tokens when filling wine orders (i.e., if a wine order asks for a 5-value red wine, can I use a 2-value red wine token and a 3-value red wine token)?
+Each wine symbol on wine orders requires exactly one wine token of equal or greater value. Thus for a wine order requesting a 5-value red wine, you need to provide exactly one red wine token worth at least 5.
+What does the money on the bottom of the wine order cards mean?
+When you fill a wine order, you gain victory points right away as noted on the card. You don’t take any lira, though; rather, you move your wine bottle token up 1 or 2 levels (depending on the wine order) on the residual payment track at the bottom right of the board. At the end of the year, you gain money equal to your level on the residual payment track. The residual tokens only move when you fill a wine order–otherwise they never increase or decrease (i.e, if you fill a wine order and move your token up to 1 lira, you don’t move it again in any direction until you fill another wine order, and in the meantime you gain 1 lira at the end of each year).
+Why do players choose their wake-up times clockwise, but the first-player token rotates counter-clockwise?
+In Viticulture, the first player only matters when choosing wake-up times in the spring. Otherwise for the rest of the year, player order each season is determined by the wake-up chart. So every spring, players take turns choosing their wake-up time in a clockwise manner. However, at the end of the year, the first-player token is passed counter-clockwise. The reason for this is so that the the last player at the beginning of the game (especially a larger game) doesn’t have a disadvantage compared to the other players. For example, in Year One of a 5-player game, Player A goes first and Player E goes last. At the end of the year, if the first-player token were to be passed clockwise, Player E would go second to last–they’re still near the bottom in terms of selection priority. And so on each year. By having the first-player token passed in the opposite direction as wake-up selection order, the game is more balanced for all players.
+Do I have to draw 2 of the same type of visitor card if I have the cottage?
+No, you can draw any combination of 2 visitor cards. You must draw them at the same time, though–you can’t look at the first card before making a decision about the second.
+Solo: If I place my grande on a space where there already is another worker, can I spend a bonus action token to do a bonus action?
+Yes.
+Visitor Cards
+For all visitors, to play a visitor card, you must be able to play all aspects of the card. You may take the actions on a visitor card in any order. Some of these descriptions might refer to old versions of the visitors from the first edition.
+Merchant: The correct and current Merchant reads, “Pay $3 to play [1-value red grape] and [1-value white grape] on your crush pad OR fill 1 [wine order] and gain 1 VP extra.”
+Handyman (original): You do not lose vines you’ve planted if you use the Handyman to upgrade, say, a Trellis into a Large Cellar. You only need a Trellis to plant vines. Once a vine is planted, it stays on your field permanently (unless you decide to uproot it). You cannot upgrade a medium cellar to a large cellar using the handyman.
+Uncertified visitors: All uncertified visitors let you spend victory points instead of money. As you can see on the game board, it is possible to have as low as -5 victory points. Thus you can spend victory points even if you are at or below 0 as long as they don’t take you below -5.
+Crusher/Crush Expert: When playing a card that says, “Make any or all types of wine,” you may make as many wine tokens as you like.
+Some visitors ask you to “choose 2.” For those visitors, you must choose two different options.
+Viticulture Second Edition
+There was only one printing of this edition of Viticulture; the Viticulture Essential Edition enhanced and expanded it and has been the official version of Viticulture since 2015.
+Why is there an extra Merchant card in the box?
+When you open your copy of Viticulture, you’ll find a loose Merchant card and a Merchant card packed together with the other winter visitor cards. When we were almost finished producing this print run of Viticulture, we realized that the Merchant card had a typo, so we quickly reprinted the correct card and slid it into the box. The correct Merchant card is shown here (the other one should be torn up and tossed to the wind). There is only one version of the Merchant card in the Essential Edition, as it is correct in that edition (it’s the “advanced” version of this card).
+If I got the stickers to update my first-edition Viticulture vineyard mats, where do the stickers go?
+See below for the second-edition vineyard mats to see where to place those stickers.
+
+Viticulture First Edition
+There was only one printing of this edition of Viticulture; it was followed by the second edition, which the Viticulture Essential Edition enhanced and expanded. The Essential Edition has been the official version of Viticulture since 2015.
+What’s the difference between the retail version of the first-edition Viticulture and the full Kickstarter version?
+The full Kickstarter version of Viticulture includes the following components not included in the retail version: 4 promo visitor cards, 1 scorebook, 8 wine coasters, 1 wine crate box sleeve, 1 custom art print, 1 set of stickers to customize the game, and the Arboriculture expansion (6 player mat extensions, 18 arbor cards, 6 grande worker meeples, 6 morale tokens, and 1 rule book).
+What type of cards sleeves do I need for the game and how many?
+If you want card sleeves for your copy of Viticulture, the sleeves you want are for “Euro mini” cards (the cards are 44x68mm). They need to be clear on both sides, and you’ll need 3 packs of 50 (there are 140 cards in the game). Important: If you have Viticulture Essential, there are 154 mini cards, so you’ll need 4 packs of 50 sleeves.
+What are the stickers for?
+There is a sheet of stickers in the box with all of the different icons in the game and different numerical increments. This was a Kickstarter stretch goal that is not actually needed for the game, but after you’ve played the game a number of times, you might want to customize your copy by changing some of the numbers on the cards, board, or player mats. Perhaps you might have a Risk: Legacy-style house rule that allows the winner to change one icon on one of the player mats. The player mats are double sided, so you can always keep one side the same, and the back side could be different (like the different player mats in 7 Wonders).
+What’s the story on the art print?
+I had my artist create a piece of art that contains every Viticulture Kickstarter backer on it as a way of thanking you all for making this dream a reality.
+What’s the surprise in the box? I couldn’t find it!
+I hinted at a special surprise for all backers back in March…but I didn’t exactly say it was going to be IN the box. Rather, the surprise is a special, Kickstarter-exclusive box sleeve that makes your game box look like a classic wine box. This was a stretch goal if we reached 1250 backers. We ended up with 942, but we like the idea of exceeding expectations even if it costs us more, so we made the box sleeve anyway.

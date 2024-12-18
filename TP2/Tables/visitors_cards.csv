@@ -1,0 +1,45 @@
+Nombre,Efecto,Estación
+Architect,Construye una estructura por £3 menos,Verano
+Auctioneer,Descarta 4 cartas y gana 2 PV o £4,Verano
+Blacksmith,Construye una estructura por £2 menos,Verano
+Broker,Gana hasta 3 VP intercambiando £3 por 1 VP,Verano
+Buyer,Vende clusters al doble de su precio y gana 1 VP,Verano
+Contractor,"Gana £1, construye 1 estructura a su precio normal y planta 1 tarjeta verde",Verano
+Entertainer,Reserva 4 trabajadores que no podrán usarse este año y descarta 2 fichas de vino de tu bodega. Gana 4 PV,Verano
+Handyman,Reemplace una de sus estructuras con otra estructura de su elección de forma gratuita,Verano
+Horticulturist,Arranca 1 carta verde y deséchala para ganar tantos PV como el valor de la carta.,Verano
+Landscaper,"Elige 2 acciones diferentes: disparar, arrancar o plantar 1 carta verde",Verano
+Novice guide,Gana £3,Verano
+Patron,Roba 1 carta morada y 1 carta azul.,Verano
+Peddler,Descarta 2 cartas y roba 1 carta de cada tipo (con un máximo de 4 cartas),Verano
+Planter,Planta hasta 2 tarjetas verdes,Verano
+Surveyor,Gana 1 PV por cada campo en el que hayas plantado una vid.,Verano
+Tour guide,Gana £4,Verano
+Uncertified architect,Elija hasta 2 estructuras que cuesten £3 o menos. Constrúyalos por 1 VP cada uno en lugar de pagarlos en £,Verano
+Uncertified broker,Gana hasta £9 al intercambiar 1 VP por £3,Verano
+Vendor,Roba 3 cartas de diferentes tipos. Los otros jugadores roban 1 carta del tipo que tú no robaste.,Verano
+Volunteer crew,Todos los jugadores pueden plantar 1 carta verde. Ganarás £2 por cada otro jugador que realice esta acción,Verano
+Wedding party,Darle £2 a cada jugador. Gana 1 VP por cada otro jugador,Verano
+Wine critic,Descarta 2 fichas de vino de tu bodega mediana o grande y gana 3 PV,Verano
+Assessor,Gana £1 por cada carta en tu mano (excepto esta),Invierno
+Benefactor,Sacar 1 tarjeta verde y 1 tarjeta amarilla,Invierno
+Caravan,"Revela la primera carta de cada mazo, roba 2 de las cartas así reveladas.",Invierno
+Crush expert,Tritura tus racimos en uno o varios tipos de vino y roba 1 carta morada.,Invierno
+Crusher,Triture sus uvas en uno o varios tipos de vino.,Invierno
+Guest speakers,Todos los jugadores pueden entrenar a 1 trabajador por £1. Obtienes 1 VP por cada jugador que realiza esta acción.,Invierno
+Harvest expert,Cosecha 1 campo y roba 1 tarjeta verde o crea tu equipo por £1,Invierno
+Harvester,Cosecha hasta 2 campos,Invierno
+Innkeeper,"Cuando juegues esta carta, roba la carta superior de 2 pilas de descarte diferentes.",Invierno
+Jack-of-all-trades,"Elige 2 acciones diferentes: cosechar un campo, triturar racimos para obtener un tipo de vino o llenar 1 tarjeta morada",Invierno
+Judge,Descarta 1 ficha de vino de tu bodega mediana o grande y gana 2 PV,Invierno
+Marketer,Completa 1 carta morada y gana 1 VP adicional,Invierno
+Master vintner,Aumenta el valor de 1 ficha de vino en +2 y llena 1 carta morada.,Invierno
+Mentor,Todos los jugadores pueden triturar sus uvas para obtener 1 tipo de vino. Roba 1 carta de tu elección por cada otro jugador que realice esta acción.,Invierno
+Merchant,Completa 1 carta morada y/o vende grupos. Gana 1 VP si haces ambas cosas,Invierno
+Oenologist,Mejora tu despensa al siguiente nivel por £3,Invierno
+Professor,Capacite a 1 trabajador por £3. No puedes utilizar este trabajador este año.,Invierno
+Promoter,Gana 1 PV y 1 £ en la ruta de pago residual a cambio de 1 ficha de uva y 1 ficha de vino,Invierno
+Queen,Entreguen a cada jugador 1 carta de su mano. Gana £2 por tarjeta entregada,Invierno
+Teacher,Capacite a 1 trabajador por £2. No puedes utilizar este trabajador este año.,Invierno
+Uncertified oenologist,Mejora tu almacén al siguiente nivel por 2 PV,Invierno
+Uncertified teacher,Entrena a 1 trabajador a cambio de 1 VP. No puedes utilizar este trabajador este año.,Invierno

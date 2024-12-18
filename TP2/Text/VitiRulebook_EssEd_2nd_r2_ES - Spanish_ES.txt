@@ -1,0 +1,655 @@
+Stonemaier Games presenta
+Creado por Jamey Stegmaier, Alan Stone, y Morten Monrad Pedersen
+Ilustrado por Beth SobelEdición  EsEncial
+La añeja re gión de la Toscana aguarda tu habilidad para elaborar  vino y tu capacidad estratégica.
+¡Plantarás vides, cosecharás uvas, envejecerás los vinos y completarás pedidos con el objetivo de crear la mayor bodega de toda Italia!
+Mécanica  dEl juEgo
+Los jugadores distribuyen los trabajadores y utilizan los 
+visitantes para completar varias tareas a lo largo de las estaciones (cada trabajador se coloca en una sola acción cada año). En la primavera, los jugadores deciden el horario que seguirán sus trabajadores. Madrugar permite al jugador poder actuar el primero. No obstante, un horario más tardío otorga a los trabajadores bonificaciones más valiosas. Durante el verano, los jugadores colocarán sus trabajadores en las casillas de acción para plantar vides y construir estructuras que ayuden a mejorar sus viñedos.  Durante el otoño, los jugadores invitan a los visitantes para ayudar a sus trabajadores. En invierno, los jugadores colocan trabajadores en las casillas de acción para vendimiar, elaborar vino y completar pedidos.objEtivo
+El objetivo es lograr 20 puntos de victoria (PV). Los puntos de victoria representan tu reputación como dueño del viñedo. Cuando un jugador alcanza los 20 puntos, se jugará hasta el final el año en curso y el jugador con más puntos ganará. Los jugadores pueden sobrepasar los 20 puntos y no hay límite de puntos. En caso de empate, se desempatará en este orden:
+1. Mayor cantidad de liras
+2. Valor total del vino de la bodega
+3. Valor total de las uvas en los lagares.1 – 6 jugadores • a partir de 13 años •  45 a 90 minutos.
+viticulture es un juego de estrategia basado en la colocación de trabajadores. La Edición 
+Esencial incluye la segunda edición de viticulture junto a varios elementos de la expansión 
+original tuscany, minuciosamente seleccionados por el famoso diseñador Uwe Rosenberg.
+Aprende a jugar en www.malditogames.com/como-jugar/viticulture 
+Si algún componente te falta o presenta desperfectos, puedes socilitar repuestos en info@malditogames.com2Cartas (232 en total)
+42 cartas de vid 
+(mazo verde)
+36 cartas de pedido de vino 
+(mazo púrpura)
+38 cartas de visitante de verano             
+(mazo amarillo)
+38 cartas de visitante de invierno           
+(mazo azul)
+18 cartas de terreno                             
+(tamaño grande. Terreno en ambas caras)
+24 cartas de Automa                          
+(tamaño grande. Parte trasera beis)
+36 cartas de papá y mamá                  
+(tamaño grande. Mazo rosa y azul)
+Tableros (de doble cara)
+1 tablero de juego
+6 tableros de viñedocoMponEntEs
+Fichas
+30 meeples de trabajadores en 6 colores diferentes                        
+y 1 trabajador temporal gris
+6 meeples de trabajadores grandes
+50 fichas de uva y vino (cristal)
+6 fichas de despertar (gallos)
+6 fichas de puntos de victoria (corchos)6 fichas de marcador de pago residual (botellas de vino)48 fichas de estructuras de madera (8 fichas diferentes por color)
+72 monedas de liras  
+(52 de bronce de 1
+, 12 de plata de 2  y 8 de oro de 5 )
+1 ficha de primer jugador (uvas)
+Reglamento y Guía de referencia rápida3prEparación  dEl 
+tablEro
+Cada jugador coloca su 
+ficha de gallo sobre la tabla de horas de despertar y su ficha de corcho en la casilla 
+Inicio del marcador de puntos 
+de victoria. Además, cada jugador debe colocar su ficha de botella de vino en el centro del marcador de pago residual.
+Nota 1: existen números 
+negativos en el marcador de puntos de victoria para algunas de las cartas de visitante de verano e invierno. Un jugador no puede tener menos de -5 en el marcador de puntos de victoria. Si un jugador tuviera -5 puntos de victoria, no podrá usar cartas de visitante que impliquen la pérdida de puntos.
+Nota 2: toda la información 
+relativa a los tableros de viñedos, los trabajadores disponibles, la cantidad de 
+liras y el número y los tipos de cartas  de cada jugador será visible para 
+todos y no está permitido ocultarla.tErrEnosvalor dE    
+las uv as
+prEcio  dE   
+las uv asEstructuras
+valorEs  dE vino rosadovalorEs  dE vino tinto
+valorEs  dE 
+vino EspuMosovalorEs  dE 
+vino tintocasillas  dE acción  dE vErano
+Marcador  dE puntos  dE victoriacasillas  dE acción  dE inviErnoubicación dEl Mazoubicación dEl Mazoubicación dEl Mazoubicación dEl Mazo
+tabla
+dE dEspErtar
+Marcador  dE 
+pago rEsidual4Ficha          
+de uva 
+genéricaFicha          
+de vino 
+genéricaiconos       tErMinología : 
+ A lo largo de este reglamento te 
+encontrarás con los términos valor y precio.
+Valor se refiere al valor de las uvas 
+cuando se están convirtiendo en vino y al valor del vino cuando se completa un pedido.
+Precio se refiere a la cantidad de 
+dinero que una uva proporcionará al venderse. En Viticulture, las uvas se pueden vender con pagos inmediatos, mientras que el vino se vende completando pedidos y a cambio de puntos de victoria y pagos residuales.prEparación
+Tablero de viñedo: cada jugador recibe un tablero de viñedo y 3 cartas de terreno diferentes: 
+, 
+  y 
+ . 
+Colócalas en paralelo (el terreno boca arriba) sobre el tablero de viñedo. Baraja los 4 mazos de cartas pequeñas (verdes, amarillas, púrpuras y azules) y colócalos sobre el tablero. 
+Mantenimiento del mazo: 
+si alguno de los 4 mazos se 
+acaba durante el juego, baraja 
+inmediatamente la pila de descartes y coloca el nuevo mazo. Si el mazo se acaba pero no hay cartas descartadas, ese mazo no estará disponible hasta que se  descarte alguna carta.
+Primer jugador: coge todas las 
+fichas de gallos de los jugadores, mézclalas en tu mano y coge una al azar. El jugador del color de la ficha escogida es el primero y cogerá la ficha de primer jugador (
+). 
+Ejemplo Recibes las siguientes cartas de mamá y papá:
+Con estas cartas empezarás el juego con 2 trabajadores normales, 1 carta de vid, 1 carta de visitante de verano, 1 carta de pedido de vino, 
+, 1 
+trabajador grande y, bien un molino o bien 
+  adicionales.Mamás y papás: después de elegir el primer jugador al azar, baraja las cartas de mamá y papá y reparte, bocarriba, una de cada tipo a cada jugador. Los recursos iniciales de cada jugador dependen de sus cartas de mamá y papá.
+Variante de juego avanzado: 
+algunos jugadores prefieren repartir 2 mamás y 2 papás a cada jugador y dejar que escojan 1 de cada.
+Todas las mamás aportan 2 
+trabajadores normales. Roba las cartas que se indiquen en tu carta de mamá para formar tu mano inicial. Haz esto antes de obtener los recursos de tu carta de papá.
+Todos los papás aportan 1 trabajador 
+grande y, la mayoría, una cierta cantidad de liras. Las cartas de papá también te permiten escoger entre: empezar con una estructura concreta o ganar unas liras extras. Los jugadores harán esta elección en el sentido de las agujas del reloj y empezando por el primer jugador. Algunos papás ofrecen un trabajador normal extra o un punto de victoria en lugar de una estructura.
+Después de reunir todos los recursos 
+iniciales, descarta las cartas de mamá y papá. Solo sirven para la preparación del juego.
+5o6Ejemplo: el jugador 1, el que tiene la 
+ficha de primer jugador, elige el hueco de las 6 y gana 1 punto en el marcador de puntos de victoria. El jugador 2 elige la línea 4 y gana 
+. Así, aunque 
+el jugador 1 tiene la ficha de primer jugador, el jugador 2 actuará en primer lugar durante el resto del año, mientras que el jugador 1 lo hará en segundo lugar, si tenemos en cuenta dónde ha colocado cada uno su gallo en la tabla de horas de despertar.
+Hora 1: sin bonificación
+Hora 2: roba 1 carta de vidHora 3: roba 1 carta de pedido de vinoHora 4: gana 
+Hora 5: roba una carta de visitante de verano o invierno.Hora 6: gana 1 punto de victoriaHora 7:  gana el trabajador temporal durante todo el año 
+(actúa como si fuera un trabajador normal) accionEs  dE priMa vEra
+Tabla de horas de despertar: Cada jugador coloca su ficha de gallo en una fila libre de la tabla de horas de despertar, 
+empezando por el jugador que tiene la ficha de primer jugador y en el sentido de las agujas del reloj. El número representa cuánto quiere el jugador que madruguen sus trabajadores durante el año venidero. 1 es lo más temprano y 7 lo más tarde. Para el trabajador, mientras más tarde mejor. Para el dueño del viñedo, quizás no.
+Consejo: cuando un jugador pase durante el verano, deberá mover su gallo de 
+izquierda a derecha en la tabla de horas de despertar, para ver claramente qué jugadores permanecen activos. Cuando pasen durante el invierno, moverán sus gallos hacia la izquierda. Esto ayudará a los jugadores a ver quién ha pasado durante el verano y el invierno.Nota 1: el primer jugador en actuar en verano, otoño e invierno será siempre el primero de la tabla de horas de despertar, tal y como se estableció durante la primavera de ese año. Es decir, en el ejemplo anterior, incluso si el jugador 2 (fila 4 de la tabla de horas de despertar) es el último en jugar en verano, seguirá siendo el primer jugador en actuar en otoño y también en invierno.
+para este año
+(robar)
+(robar)
+o
+(robar)1
+2
+3
+4
+5
+6
+7tabla dE horas  dE dEspErtarPrimavera 
+Para determinar el orden de los jugadores durante el resto del año, cada jugador coloca su ficha de gallo en una fila libre de la tabla de horas de despertar, empezando por el jugador que tiene la ficha de primer jugador y en el sentido de las agujas del reloj.
+Verano 
+Empezando por el primer jugador de la tabla de horas de despertar y siguiendo en orden descendente, cada jugador puede colocar 1 trabajador en cualquier casilla de acción de verano disponible (casillas de acción amarillas) y realizar la acción inmediatamente. También puede pasar y guardar los trabajadores restantes para el invierno. Este ciclo de turnos se sucede hasta que todos los jugadores hayan pasado.
+Otoño 
+Empezando por el primer jugador de la tabla de horas de despertar y siguiendo en orden descendente, cada jugador roba una carta de visitante de verano o una de invierno.
+Invierno 
+Empezando por el primer jugador de la tabla de horas de despertar y siguiendo en orden descendente, cada jugador coloca 1 trabajador en cualquier casilla de acción de invierno disponible (casillas de acción azules) y realizará la acción inmediatamente. Este ciclo de turnos se sucede hasta que todos los jugadores hayan utilizado a todos sus trabajadores.
+Final del año                                                                    
+Los jugadores envejecen sus fichas de uva y vinos, devuelven sus trabajadores a sus tableros de viñedo, cobran los pagos residuales, quitan sus fichas de gallos de la tabla de horas de despertar y rotan la ficha de primer jugador en el sentido de las agujas del reloj. El juego terminará si cualquier jugador alcanza o supera los 20 puntos de victoria.
+7Bonificaciones: la mayoría de 
+acciones tienen una casilla de acción con una bonificación especial. El jugador puede ganar la bonificación si coloca un trabajador en la casilla de acción con el icono de 1 lira, 1 carta, +1, etc. El jugador puede realizar la acción y la bonificación en cualquier orden. La acción es obligatoria pero la bonificación opcional. Por ejemplo, un jugador no puede colocar un trabajador en la casilla de bonificación «completa 1 pedido de vino» para ganar 
+ sin completar realmente un 
+pedido de vino.adaptar  El juEgo  al núMEro  dE jugadorEs
+En el juego para 2 jugadores solo estará disponible la casilla de acción de la izquierda. De 3 a 4 jugadores estarán disponibles las casillas izquierda y central. Finalmente, para 5 a 6 jugadores, se podrán utilizar las tres casillas de acción. Estas casillas de acción se podrán ocupar en el orden deseado. Cada casilla de acción puede estar ocupada únicamente por un jugador al mismo tiempo.
+Bonificación2 jugadorEs3-4 jugadorEs
+5-6 jugadorEs
+colocar  trabajadorEs  
+grandEs
+Los jugadores grandes se rigen por las mismas reglas que los trabajadores normales, pero además tienen una habilidad especial: los trabajadores grandes se pueden colocar en una acción ocupada del tablero y realizar esa acción. Varios jugadores pueden hacer lo mismo, al mismo tiempo, con los trabajadores grandes. Un trabajador grande que se haya colocado en una casilla vacía de acción con bonificación te dará esa bonificación (como lo haría un trabajador normal). En cualquier otro caso, no te dará la bonificación.colocar  trabajadorEs
+* El jugador puede utilizar cada trabajador solo una vez al año. De este modo, 
+un trabajador colocado en verano no se puede utilizar en invierno.
+* El jugador puede colocar varios trabajadores en la misma acción, en turnos 
+siguientes, siempre y cuando queden casillas de acción disponibles. 
+* Los trabajadores solo se pueden colocar en casillas de acción de la estación 
+en curso.
+* Si un jugador pasa, no podrá colocar más trabajadores durante esa estación. 
+* El jugador debe realizar la acción en cuanto coloque al trabajador. Por 
+ejemplo, si un jugador realiza la acción «Planta 
+ », el jugador debe plantar 
+una vid.Trabajador en una casilla 
+de acción de verano
+Ejemplo: estás jugando una 
+partida de 2 jugadores y el otro jugador decide hacer un tour con un trabajador normal para ganar 2 liras. 
+Si quisieras hacer un 
+tour también, 
+puedes colocar 
+tu trabajador 
+grande en 
+esa misma acción (en la 
+ilustración de 
+esa acción, no 
+en la casilla de 
+acción) para ganar 
+también 2 liras.Conversión
+unidireccionalResidualiconos
+8accionEs  dE vErano
+Durante el verano, los jugadores construyen en su viñedo, van al mercado, plantan 
+vides, ponen a sus visitantes de verano a trabajar, muestran su viñedo y venden uvas. 
+Gana 
+ : en verano o invierno, los jugadores pueden 
+colocar un trabajador en la carreta de la parte inferior 
+del tablero para ganar  
+ . Colocar 1 trabajador en esta 
+posición cuenta como un turno de jugador. A lo largo del año, cualquier jugador puede colocar en esta acción tantos trabajadores como quiera.valorEs  y v ariEdadEs  dEl Mazo  dE vid
+Cada carta de vid tiene un círculo con un número que representa el valor de la uva que la vid producirá. Algunas cartas tienen estructuras en la esquina superior derecha (riego, emparrado o ambas). Las estructuras indicadas deben estar construidas antes de poder plantar la vid.
+variEdad color valor total dE cartas prErrEquisitos
+Sangiovese Tinto 1 4 Ninguno
+Malvasia Blanco 1 4 Ninguno
+Pinot Tinto y blanco 1 de cada 6 Emparrado
+Syrah Tinto 2 5 Emparrado
+Trebbiano Blanco 2 5 Emparrado
+Merlot Tinto 3 5 Riego
+Sauvignon Blanc Blanco 3 5 Riego
+Cabernet Sauvignon Tinto 4 4 Emparrado y riego
+Chardonnay Blanco 4 4 Emparrado y riego
+Produce 1 uva roja 
+de valor 4Produce 1 uva roja 
+de valor 1 y 1 uva 
+blanca de valor 1Produce 1 uva roja  
+de valor 1Emparrado Emparrado
+Riego
+Produce 1 uva blanca 
+de valor 3Riego
+Desarraigar: algunas cartas de visitante, así como la acción del yugo, permiten a los jugadores la opción de desarraigar una carta de vid. Para hacerlo, el jugador elige una carta de vid plantada en su terreno y la devuelve a su mano. Es poco frecuente utilizar esta acción y está pensada para cuando un jugador necesite redistribuir sus terrenos.
+variEty color valuE total cards prErEquisitE
+Sangiovese Red 1 4 None
+Malvasia White 1 4 None
+Pinot Red & White 1 each 6 Trellis
+Syrah Red 2 5 Trellis
+Trebbiano White 2 5 Trellis
+Merlot Red 3 5 Irrigation
+Sauvignon Blanc White 3 5 Irrigation
+Cabernet Sauvignon Red 4 4 Trellis & Irrigation
+Chardonnay White 4 4 Trellis & Irrigation9Vender al menos una uva o 
+comprar/vender un terreno: vende cualquier número de fichas de uva (al menos 1) de tu lagar por el precio que indica la moneda situada entre los lagares. Por ejemplo, una ficha de uva de valor 4 valdrá 
+ 
+cuando se venda. Descarta las fichas vendidas.Robar carta de vid:  roba una carta de vid.
+Bonificación:  roba una 
+carta de vid adicional.
+Construir una 
+estructura: construye una estructura que aún no se haya construido en tu tablero de viñedo, pagando el coste y colocando la ficha de estructura correspondiente en tu tablero de viñedo (más información sobre cada estructura en la página 12).
+Bonificación: gana 
+.
+Nota: los jugadores 
+solo pueden tener una construcción de cada tipo en su tablero de viñedo.Hacer un tour por el 
+viñedo: gana 
+. 
+Bonificación: gana un 
+  
+adicional.Jugar carta de visitante de verano: juega una carta de visitante de verano de tu mano para que tenga efecto. Coloca las cartas utilizadas en la pila de descartes de visitantes de verano de la parte superior del tablero. 
+Bonificación: juega una carta extra de visitante de 
+verano.
+Plantar una vid: planta una vid en uno de los terrenos de tu viñedo. Las vides se plantan colocando la carta de vid sobre un terreno vacío o apilando una carta de vid sobre otra vid que se haya plantado previamente. Una vez que una vid haya sido plantada, permanecerá en el terreno durante el resto de la partida, incluso si el terreno se cosecha. La única manera de retirar una carta de vid es desarraigarla mediante el yugo o una carta de visitante.
+Bonificación: planta una carta de vid adicional de tu mano.Precios de cada hilera 
+de fichas de uva.
+hacEr un tour
+construir  Estructuras
+plantar  vidEsrobar carta  dE vid
+vEndEr  uv asjugar carta  dE visitantE
+Además, puedes vender uno de tus terrenos por la cantidad de liras indicada en la carta del terreno o comprar de nuevo alguno de los terrenos vendidos (al mismo coste que el precio de venta).
+No está permitido vender 
+terrenos que contengan cartas de vid ni plantar vides en terrenos vendidos.
+Bonificación: gana 
+.
+Nota: no se puede exceder el valor máximo de un terreno (5, 6 o 7) al sumar el 
+valor de las cartas sobre el terreno. Este terreno tiene actualmente un valor total de 6.
+10Otros visitantes hacen referencia a 
+bonificaciones que recibes gracias a algunas estructuras de un determinado coste. Las bonificaciones se aplican solo a las estructuras con ese coste exacto. Por ejemplo, el Herrero te proporciona 
+1 por 
+construir un molino, una sala de catas o una bodega grande.Algunos visitantes te permiten pagar para 
+colocar una uva de valor 1 en tu lagar. No se trata de una uva cosechada de tus vides, sino que será más bien como si compraras uvas directamente del mercado. Debes tener disponible un espacio de valor 1 de uva en tu lagar para utilizar esta habilidad.Si un jugador utiliza una carta de visitante de verano o invierno, la acción descrita en la carta surte efecto inmediatamente. La carta se descarta y se termina cualquier bonificación proporcionada por dicha carta.
+Las cartas de visitante se juegan colocando a un trabajador 
+en las casillas de acción para jugar cartas de visitante de verano o invierno. No se necesitan trabajadores adicionales para llevar a cabo la acción descrita en la carta.
+Solo está permitido jugar una carta de visitante si eres capaz 
+de completar el efecto de la carta. Por ejemplo, si una carta indica que debes dar 
+ a cada uno de tus oponentes para 
+obtener un beneficio, solo podrás jugar esa carta si tienes suficientes liras como para repartir 
+ a cada uno de tus 
+oponentes. Las acciones múltiples de las cartas de visitante 
+se pueden realizar en cualquier orden.Mejorar la bodega: algunas cartas te permiten «llevar 
+tu bodega al siguiente nivel». Esto significa que puedes construir una bodega mediana o grande, dependiendo de lo que tengas  (no puedes construir una bodega grande si no dispones de una bodega mediana).
+Conversiones de un sentido(
+): algunas cartas te 
+permiten cambiar liras por puntos de victoria en una 
+proporción determinada. Por ejemplo, 
+    significa 
+que podrás ganar puntos de victoria en una proporción de 
+ por cada 
+  que gastes (pero no en sentido contrario).
+Consulta la página 11 para más información sobre cartas de visitante concretas.
+Ejemplo Muchos de los visitantes tienen dos cláusulas diferentes, separadas por la vocal en mayúsculas «O». Estas dos cláusulas son completamente independientes. En este ejemplo, podrías elegir (1) envejecer todos los vinos de tu bodega dos veces O (2) pagar 
+1 y 
+mejorar tu bodega hasta el siguiente nivel.
+Las reglas para formar a un nuevo trabajador 
+se aplican a todas las cartas de visitante. A menos que la carta diga lo contrario, no podrás utilizar el trabajador hasta el año siguiente. El icono 
+ de las cartas de visitante se lee como 
+«trabajador».cartas  dE visitantE  dE vErano  E inviErno
+1
+1
+11Agricultora Planta 1 
+ . 
+Puedes plantarla sin importar 
+si el valor total supera el valor máximo de vid del terreno. Esta regla es la única excepción a las reglas sobre la plantación en terrenos hasta un determinado valor de vides. Es decir, no podrás seguir plantando en ese terreno si excedes el valor máximo de vid en los siguientes turnos. Gerente Realiza cualquier acción (sin bonificación) de una estación anterior sin colocar trabajadores. Se podrá utilizar cualquier acción del tablero de dichas estaciones, incluso si todas las casillas de acción ya ocupadas. En el Viticulture base (sin el tablero extendido de Tuscany) esta carta se refiere únicamente al verano.
+Motivadora Los jugadores 
+pueden recuperar su trabajador grande. Ganas 
+1 por cada 
+oponente que lo haga. Los oponentes que ya hayan pasado su turno en esa estación no podrán recuperar sus trabajadores grandes.
+Organizadora Mueve tu 
+ 
+a una fila vacía de la tabla de 
+horas de despertar, gana la bonificación y pasa de estación. Si pasas el turno utilizando a la Organizadora, tu gallo permanecerá en la nueva fila y hora de despertar que hayas elegido. En el tablero extendido de Tuscany, puedes elegir la primera fila de la tabla de horas de despertar (si no está ocupada).Gestora Coloca 1 trabajador en una acción de una estación venidera. Realiza la acción al principio de esa estación. De este modo, si colocas 1 trabajador en la acción «Completar un pedido de vino», realizarás la acción antes de que los jugadores realicen las acciones de invierno en el orden de despertar normal. P. ej., si eres el primero, llevarías a cabo la acción de la Gestora y después comenzaría tu turno. Esta carta solo se aplica a las casillas de acción del tablero. En el Viticulture base (sin el tablero de Tuscany) e s t a  c a r t a  s e  r e fi e r e  ú n i c a m e n t e  a l  i n v i e r n o .                                                   Productor Paga 
+ para recuperar hasta 
+2 
+  de otras acciones. Los puedes volver a 
+usar este año. «Otras acciones» se refiere a cualquier acción diferente de «Jugar una carta de visitante de verano» donde hayas jugado al Productor. Al recuperar estos trabajadores, podrían quedar casillas de acción de verano disponibles que pueden ser utilizadas por ti u otros jugadores.
+Aparcero Planta 1 
+, incluso sin las 
+estructuras necesarias, O desarraiga y descarta 
+1 
+ para ganar 
+ . Esta carta te permite evitar 
+el «coste» normal para plantar cartas de vid. No necesitas emparrado o riego para plantar 
+ 
+con la primera habilidad del Aparcero. Para la segunda habilidad, puedes descartar una carta de vid cualquiera de tu mano. No tiene que ser necesariamente la carta de vid que hayas desarraigado. Cimologista Produce hasta 2 
+ de valor 4 o 
+superior, incluso si no has mejorado tu bodega. 
+De esta manera, si usas la carta para fabricar una ficha de vino tinto de valor 5, podrás colocarla en el espacio de valor 5, incluso si no dispones de la bodega mediana. Para que esa ficha pueda envejecer hasta valor 6, tendrás que construir la bodega mediana y la grande. Recuerda que no puedes construir la bodega grande sin tener una mediana antes.EjEMplos  y aclaracionEs
+1
+12Yugo( 
+ ): otorga al jugador 
+una casilla de acción que puede usar 
+una vez al año (en verano o invierno). En su turno, el jugador puede colocar un trabajador normal (o un trabajador grande, como si fuera un trabajador normal) en su yugo para desarraigar 1 carta de vid (devuelve una carta de vid de su terreno a su mano) o cosechar 1 terreno (incluso en verano, a pesar de que el terreno solo se puede cosechar una vez al año. En la p. 14 encontrarás más información sobre la cosecha).Bodegas (
+ y 
+ ): los 
+jugadores almacenan el vino en sus bodegas, pero una bodega pequeña solo deja 
+espacio para las variedades de menor valor. Construir las bodegas medianas (vino con valor de 4 a 6) y grandes (de 7 a 9) permite al jugador almacenar vinos de mayor valor, así como hacer y almacenar vino rosado, en las bodegas mediana y grande, y vino espumoso, en la grande.
+Nota: es necesario construir la bodega 
+mediana antes de la bodega grande.Emparrado ( 
+): el 
+emparrado es necesario para 
+plantar algunos tipos de vides.
+Riego ( 
+ ): el riego es 
+necesario para plantar ciertos tipos de vides.Molino ( 
+): después de 
+construir el molino, el jugador 
+consigue 1 punto de victoria cada vez que plante una vid (máx. 
+ al año). Sala de catas (  
+): tras 
+construir la sala de catas, el 
+jugador obtendrá 1 punto de victoria cuando coloque un trabajador en la acción «Hacer un tour por el viñedo», siempre y cuando tenga al menos 1 ficha de vino en su bodega  (máx. 
+ al año).
+El otoño es la estación para invitar a visitantes de provecho a tu viñedo. Estos visitantes llegarán en verano o invierno para echar una mano en tu viñedo.
+Siguiendo el orden de la tabla de horas 
+de despertar, cada jugador invita a un visitante de verano o invierno a su viñedo. Para ello, cogerá una carta de visitante a su elección. El jugador realiza esta acción sin utilizar trabajadores. Después de construir la casa de campo,  tiene la opción de coger una carta de visitante extra cada año, pero debe coger ambas cartas al mismo tiempo (es válida cualquier combinación de cartas de visitante).
+accionEs  dE otoñoCasa de campo (
+ ): si un 
+jugador tiene la casa de campo, 
+podrá coger una carta de visitante a su elección al principio del otoño (además de la carta de visitante que se coge por defecto en el otoño) Las dos cartas pueden ser del mismo o diferente tipo de carta de visitante.Estructuras
+Las estructuras te permiten plantar vides de alta calidad, hacer mejor vino y ganar 
+bonificaciones especiales en verano y otoño. Cada estructura tiene un coste que se indica 
+en su moneda del tablero del jugador.Molino
+casa dE caMpo
+yugo
+bodEgasriEgoEMparrado
+sala dE catas
+13Cosechar un terreno: 
+elige un terreno y añade 
+fichas de uva al lagar según las que tuvieras cosechadas en ese terreno (más información en la página 14 ). Las cartas de vid permanecen en el terreno tras la cosecha, pues los viticultores no sacan las vides del terreno al recolectar las uvas.
+Bonificación: cosecha 
+un terreno extra.
+gana 
+: gana 
+ . Esta 
+casilla de acción no está 
+limitada a 1 trabajador.Robar una carta de 
+pedido de vino: roba una carta de pedido de vino:
+Bonificación: roba una 
+carta extra de pedido de vino.
+Produce hasta dos fichas de vino: convierte 
+uvas en vino en el lagar (más información en las páginas 14 y 15).
+Bonificación: Genera una ficha de vino extra.Jugar una carta de 
+visitante de invierno: juega una carta de visitante de invierno de tu mano para que tenga efecto. Coloca las cartas utilizadas en la pila de descartes de visitantes de invierno de la parte superior del tablero.
+Bonificación: juega una 
+carta extra de visitante de invierno.
+Completar un pedido de 
+vino: cumple los requisitos de una carta de pedido 
+de vino y descártala (más información en la 
+página 16).
+Bonificación: gana 
+.accionEs  dE inviErno
+El invierno es la estación para recoger todo lo sembrado, convertir las uvas en vino, 
+descubrir los vinos más demandados, formar nuevos trabajadores, poner a los visitantes de 
+invierno a trabajar y completar pedidos de vino.
+cosEchar  tErrEno
+pEdido  dE vinorobar carta  dE pEdido  dE vino
+producir  vinoForMar  trabajadorganar
+jugar  carta  
+dE visitantE
+Paga 
+  para formar a 
+un nuevo trabajador: 
+coloca un nuevo trabajador junto a esta casilla de acción para mostrar que está siendo formado pero no podrá usarse hasta el año siguiente.
+Bonficación: gana 
+.
+Nota 1: Un jugador no puede tener 
+más de 5 trabajadores y 1 trabajador grande. Este límite no incluye al trabajador temporal.
+14Cuando un jugador cosecha un 
+terreno, recolecta las fichas de uva de las cartas de vid de ese terreno.
+Para cosechar un terreno, suma el 
+valor total de todos los iconos de uvas rojas de la vid para crear 1 ficha de uva roja con ese valor. A continuación, suma el valor total de todos los iconos de uvas blancas de la vid para crear 1 ficha de uva blanca con dicho valor en tu lagar. Las cartas de vid permanecen en el terreno.
+Nota 1: los terrenos se pueden 
+cosechar solo una vez al año.
+Nota 2: cada icono de uva del lagar 
+puede albergar exactamente 1 ficha de uva. Si el icono de la uva ya contiene una ficha al cosechar una uva de ese valor, deberás devaluar la ficha de uva hasta el siguiente valor inferior disponible. Es decir, si el icono de uva blanca de valor 4 de tu lagar ya contiene una ficha en el momento de cosechar una uva blanca de valor 4, la nueva ficha obtenida se colocará en el icono blanco de valor 3 del lagar (siempre que esté vacío. De lo contrario, en el de valor 2 y así sucesivamente).Ejemplo: Un jugador tiene plantadas tres vides en un terreno. A la hora de cosechar el terreno, suma el valor de los dos símbolos de uva roja (1+1) de las vides y forma una única uva de valor 2 en su lagar. Hace lo mismo con los dos símbolos de uva blanca (1+2) y forma una uva blanca de valor 3.
+rosado
+EspuMosoblancoblancotintotintocosEchar  tErrEnos15Nota 1: descarta las fichas sobrantes 
+usadas al elaborar vino rosado o espumoso.
+Nota 2: los jugadores deben tener 
+una bodega apropiada para almacenar cualquier vino, vino rosado o vino espumoso con un valor superior a 3 y 6.
+Nota 3: cada icono de vino de la 
+bodega puede albergar exactamente 1 ficha de vino. En este caso, se aplican las mismas reglas explicadas en la «Nota 2» de la página 14.
+Nota 4: una vez colocadas en la 
+bodega, las fichas de vino nunca se  podrán combinar.
+Nota 5: un jugador experimentado 
+elaborará vino estratégicamente según las bodegas y los pedidos de vino que tenga en su mano. ¡Las uvas en Viticulture envejecen tal y como lo hace el vino!Ejemplo 1: un jugador decide crear 2 fichas de vino tinto, pero aún no dispone de la bodega mediana. La uva roja de valor 1 se convierte en vino tinto de valor 1, mientras que la uva roja de valor 4 se devalúa y se convierte en vino tinto de valor 3.
+Ejemplo 2: un jugador decide crear 1 ficha de vino rosado y combina 1 uva roja y 1 uva blanca para formar 1 ficha de vino rosado con un valor igual al resultado de combinar el de ambas uvas. Puede hacerlo porque dispone de una bodega mediana.Producir hasta 2 fichas de 
+vino: los jugadores elaboran vino convirtiendo uvas en su lagar en fichas de vino. Las fichas de vino blanco y tinto de menor valor se pueden crear en una bodega pequeña. Sin embargo, para elaborar vino rosado, vino espumoso y vino blanco y tinto de más valor es necesario mejorar la bodega. 
+Cuando un jugador produce más de 1 
+ficha de vino, el vino elaborado puede ser del mismo o de diferentes tipos de vino.Vino tinto: mueve 1 ficha de uva roja a la casilla correspondiente de la bodega. Por ejemplo, una uva roja de valor 3 se convertirá en un vino tinto de valor 3. 
+Vino blanco: mueve 1 ficha de uva 
+blanca a la casilla correspondiente de la bodega.Rosado: combina 1 ficha de uva roja y 1 ficha de uva blanca para producir 1 ficha de vino rosado con un valor igual al resultado de combinar el de ambas uvas. Por ejemplo, una uva blanca de valor 1 y una uva roja de valor 4 formarán un vino rosado de valor 5.
+Espumoso: combina 2 fichas de 
+uva roja y 1 ficha de uva blanca para elaborar 1 ficha de vino espumoso con un valor igual al resultado de combinar el de ambas uvas (ejemplo 2).
+Elaborar  vino16Ejemplo: completar un pedido de vino 
+Esta carta de pedido de vino requiere una ficha de vino tinto con, al menos, valor 2 y una ficha de vino blanco con, al menos, valor 4. Para completar el pedido, el jugador enseña la carta de pedido de vino, elimina exactamente 1 ficha de vino tinto con, al menos, valor 2 y 1 ficha de vino blanco con, al menos, valor 4 de su bodega. Gana 3 puntos en el marcador de puntos de victoria y avanza 
+ en el marcador de pago residual. A continuación, el jugador descarta la carta de pedido de 
+vino.Pedido de vino en 
+concepto de vino 
+tinto de valor 2 y vino 
+blanco de valor 4.
+PV conseguidos.
+ pago residual
+pagos rEsidualEs
+Los jugadores controlan los pagos residuales de los pedidos de vino en el 
+marcador de pago residual. Todos los jugadores comienzan la partida con sus fichas de botellas de vino en el símbolo de la lira situado en el centro del marcador de pago residual. 
+Cada vez que un jugador completa un pedido de vino, ese jugador avanza su 
+ficha residual en el marcador la cantidad de liras indicada en la carta de pedido de vino. La ficha permanecerá en esa posición, no la recoloques. 
+Al final del año, cada jugador gana la cantidad de liras que indica su posición en 
+el marcador de pago residual (1 = 
+). 
+El máximo pago residual que un jugador puede recibir es 
+ . La ficha residual 
+permanecerá en el 5 aunque complete más pedidos de vino. Para completar un pedido de vino coloca un trabajador en la acción «Completar pedido de 
+vino». También hay cartas de visitante que te permiten completar un pedido de vino.
+Elige y muestra una carta de pedido de vino de tu mano. La carta muestra uno o más 
+iconos de fichas de vino con números. Estos indican los valores mínimos de fichas de vino que deberás descartar de tu bodega para completar el pedido.
+Después de retirar estas fichas de vino de tu tablero de viñedo, obtén los puntos de 
+victoria y el beneficio de lira residual, tal y como se indica en la parte inferior de la carta (mueve tu ficha en el marcador de pago residual). Después, descarta la carta de pedido de vino.coMplEtar  pEdidos  dE vino
+Marcador de pago residual
+17Envejecer fichas de uva y vino: 
+aumenta el valor de todas tus fichas de uva y vino de tu lagar y tu bodega en 1 (por ejemplo, una ficha de uva o vino de valor 2 mejorará hasta valor 3 y una de 3 hasta 4). Las fichas de uva y vino 
+no pueden tener un valor superior a 9.
+Nota 1: las fichas de vino solo pueden 
+envejecer por encima de valor 3 si se ha construido la bodega mediana y por encima de 6 si se ha construido la bodega grande.
+Nota 2: los jugadores no pierden 
+las fichas de uva y vino aunque no las puedan envejecer. Por ejemplo, si un jugador tiene un bodega mediana y una grande y tiene fichas de vino tinto de valor 8 y 9, cuando llegue el momento de envejecer esos vinos, permanecerán en la misma posición.
+Retirar trabajadores: devuelve 
+todos los trabajadores a sus respectivos jugadores y devuelve el trabajador temporal a la tabla de horas de despertar.
+Cobrar pagos residuales de 
+los pedidos completados: los jugadores cobran tantas liras como indique su posición en el marcador de pago residual (máx. 
+ Al año). Descarta hasta quedarte con 7 cartas: al final cada año, cada jugador debe descartar sus cartas hasta quedarse solo 7 a su elección.
+Rotar la ficha de primer jugador: 
+rota el primer jugador en el sentido contrario a las agujas del reloj y retira todas las fichas de gallos de la tabla de horas de despertar.
+Nota: el nuevo «primer jugador» será 
+el primero en elegir su posición en la tabla de horas de despertar durante la primavera.Final dEl año
+Al final de cada año, los jugadores envejecen las fichas de uva y vino, recuperan todos los trabajadores 
+del tablero, cobran los pagos residuales obtenidos gracias a los pedidos completados y rotan la ficha 
+de primer jugador en el sentido contrario a las agujas del reloj hacia el siguiente jugador.
+variantE  aMistosa
+Una regla opcional para una partida más trivial a 
+Viticulture es que un jugador pueda elegir la casilla de acción con bonificación solo si puede completar esa bonificación (por ejemplo, jugar una segunda carta de visitante de verano) o si no hay otra casilla disponible en esa acción. De este modo, los jugadores no pueden colocar trabajadores en las casillas de acción con bonificación para bloquear a otros jugadores, tal y como se puede hacer con las reglas habituales.objEtivo  Final dEl juEgo  y dEsEMpatE
+Cuando un jugador alcance los 20 puntos, se jugará hasta el final del año en curso y el jugador con más puntos ganará. En caso de empate, se desempatará de la siguiente manera y en este orden:
+1. Mayor cantidad de liras
+2. Valor total del vino de la bodega
+3. Valor total de las uvas en los lagares.Ejemplo: en este ejemplo se están envejeciendo las fichas de uvas y vino con una bodega mediana.
+18AUTOMA DE VITICULTURE  
+Esta es la versión oficial de Viticulture para un jugador. 
+Diseñado por Morten Monrad Pedersen
+introducción  
+A veces, resulta difícil reunir a tu grupo 
+de amigos para echar una partida, pero eso no significa que no puedas jugar a Viticulture. Esta hoja de reglas te permite jugar solo a Viticulture contra un contrincante artificial llamado «el Automa».  
+objEtivo  
+Conseguir más puntos de victoria que el 
+Automa al final de la partida, que durará 
+7 años.
+prEparación
+Prepara tu propio viñedo de la forma 
+habitual.
+1. Elige un color de jugador para el 
+Automa y coloca su ficha de PV en la casilla «Fin» del marcador de puntos de victoria. 
+2. Coloca 1 ficha de cristal en cada una 
+de las líneas de la tabla de horas de 
+despertar.
+3.   Baraja el mazo de Automa y colócalo 
+junto a la tabla de horas de despertar. 
+4.   Retira cualquier carta de visitante 
+que solo proporcione beneficio si 
+otro jugador realiza una acción. No 
+obstante, las puedes mantener en el mazo y simplemente sacar otra 
+cuando robes una de ellas.
+dEsarrollo  
+El juego se desarrolla estación a 
+estación, utilizando las casillas de acción para 2 jugadores (la casilla izquierda de cada acción).Final del año Además de las reglas habituales del final del año, retira todos los trabajadores del Automa del tablero.
+Final dEl juEgo  y dEsEnlacE  
+El juego finaliza al terminar el séptimo año. Ganarás si tu ficha de PV está por delante de la ficha del Automa. Si están en la misma casilla, el juego queda en tablas y, si el Automa está por delante, habrás perdido.Tabla de horas de despertar Coloca tu ficha de gallo de la manera habitual, con la excepción de que solo podrás colocarla en espacios que contengan una ficha de cristal. Retira la ficha de cristal de la fila correspondiente y colócala junto a tu tablero de jugador. Esta ficha se convierte en una ficha de acción de 
+bonificación.
+Nota: la carta de visitante de verano 
+de la Organizadora no puede mover tu 
+gallo hasta la fila 7.
+Cartas de Automa 
+Al principio de cada estación, cuando tengas que colocar los trabajadores, roba, en primer lugar, 1 carta de Automa de la baraja. A continuación, coloca ninguno, 1, 2, o 3 trabajadores del Automa en las casillas de acción del tablero de la estación en curso indicadas en la carta de Automa. Las cartas de Automa tienen los colores de las cuatro estaciones para que sean compatibles con el tablero extendido de Tuscany. En Viticulture, el amarillo y el verde se corresponden con el verano, mientras que el rojo y el azul se corresponden con el invierno. Además, algunas acciones son específicas de las expansiones de Tuscany. Estas acciones aparecen marcadas con una «T» en las cartas de Automa y se deben ignorar si no se está utilizando la expansión correspondiente.En realidad, los trabajadores del Automa no realizan ninguna acción ni ganan bonificaciones. Se limitan a bloquear las casillas de acción para simular un contrincante.
+Fichas de acción de bonificación 
+Cada vez que elijas un nuevo hueco de despertar al principio del año, retira la ficha de cristal de ese hueco y colócala 
+junto a tu tablero de viñedo. Puedes 
+ir acumulando estas fichas de acción de bonificación año tras año. Puedes gastar 1 de estas fichas por turno cuando coloques 1 de tus trabajadores sobre el tablero. Descarta 1 ficha de acción de bonificación y, además de realizar la acción, obtendrás la acción de bonificación de esa acción. Si lo haces, puedes llevar a cabo la acción y la bonificación en cualquier orden.
+Ejemplo 
+Si durante el verano robas esta carta, coloca a los trabajadores del Automa en las 
+acciones de «Robar
+», «Construir estructura», y «Plantar 
+ », en ese orden (el 
+orden solo tiene relevancia en las dificultades difícil y muy difícil). Si la robaras durante el invierno, coloca una en «Producir hasta 2 fichas de vino». 
+19Diseño 
+Morten Monrad Pedersen
+Desarrollo 
+José M López-Cepero
+Todd Schoening
+Christopher Jerome Smith
+Jamey Stegmaier
+David Studleyajustar  la diFicultad
+Niveles de dificultad  
+Puedes jugar contra el Automa en cinco niveles diferentes de 
+dificultad:
+Muy fácil: añade un octavo año. Durante este octavo año 
+puedes elegir cualquier fila de la tabla de horas de despertar y recibes una ficha de acción de bonificación.
+Fácil empieza en 
+3.
+Normal: tal y como se describe en las reglas anteriores.Difícil: sigue robando cartas de Automa y colocando 
+trabajadores hasta que el Automa haya colocado al menos 2 trabajadores en la estación en curso. Coloca trabajadores en todos los lugares indicados en las cartas extra, pero no los coloques en acciones donde ya haya un trabajador. Si el Automa coloca su sexto trabajador, dejará de colocar trabajadores. Si te quedas sin cartas de Automa, baraja de nuevo el mazo.
+Muy difícil: las mismas reglas que en difícil, pero el 
+Automa empieza en 
+23.
+variantE  agrEsiv a  
+Si quieres añadir algo de tensión al juego, deja que el Automa logre puntos de victoria cada año y, si al final de cada año no estás por delante de él en el marcador, perderás inmediatamente.
+Esta variante se puede jugar en los niveles de dificultad fácil, 
+normal y difícil. Al comienzo de cada año, coloca la ficha de PV del Automa en la posición del marcador de PV que se indica en la siguiente tabla. Asegúrate de que terminas el año por delante de dicha cifra.caMpaña  
+Puedes jugar el juego en modo Campaña para añadir más variedad y desafío al juego. La campaña consiste en ocho desafíos y debes derrotar al Automa en cada uno de ellos para completar la campaña. Cada vez que pierdas, comienza el mismo desafío y empieza con un número de fichas de acción de bonificación en tu mano igual al número de veces consecutivas que hayas perdido. 
+Tu puntuación será el número de partidas que hayas 
+jugado para completar la campaña (cuantas menos, mejor). Cada desafío de la campaña se juega de manera normal, excepto por un pequeño cambio en las reglas. Juega los 8 desafíos en este orden:
+1.  No recibes carta de mamá. En su lugar, elige 3 
+ a 
+tu elección y plántalas como parte de la preparación. 
+Puedes ignorar los requisitos de estructuras para estas 3 
+. Baraja de nuevo el mazo de 
+  después de haber 
+hecho tu elección.
+2.  No puedes tener más de 2  (no cuenta el  ni 
+el ). Utiliza las casillas de acción centrales en lugar 
+de las casillas de la izquierda, excepto cuando coloques al trabajador grande en una acción que ya está ocupada. No puedes utilizar las fichas de acción de bonificación.
+3.  Debes tener 6 trabajadores al final del tercer año o perderás la partida.
+4.  Empieza en 
+5. Cuando utilices la acción de cosechar, 
+podrás cosechar hasta 3 terrenos.
+5.  No puedes utilizar las fichas de acción de bonificación. Juega 8 años y, cada año, puedes elegir cualquier fila de la tabla de horas de despertar.
+6.  No recibes PV durante la partida. En su lugar, al final de la partida, recibes 
+ por cada vino de tu bodega 
+grande y 
+ 1 por cada vino de tu bodega mediana. Si 
+juegas la variante agresiva deberás obviar esta parte de la campaña.
+7. Empieza en 
+3 y 
+ .
+8.  No puedes completar 
+  (se incluyen los pedidos 
+completados a través de visitantes). No obstante, el vino se puede utilizar para ganar PV de todas las demás maneras. Las cartas de mamá que te dan 
+ se pueden 
+obviar para volver a robar carta.año 1 2 3 4 5 6 7
+-1 0 1 4 8 13 20
+Testeo 
+John Baker
+Joshua Dumont
+Wil Gerken
+Mike Hatke
+Roslyn M. Jordan
+Darren Kumasawa
+Gordon Pueschner
+Brad WarrenFrank J. Wojcik
+Kerstin Weiß
+James CartwrightKevin L. Kitchens
+Stathi Panayi
+Adrian Sperling
+Björn Franke
+3
+23
+5
+1
+3
+yEar 1 2 3 4 5 6 7© 2015 Stonemaier llc. Viticulture es una marca registrada de Stonemaier llc. Todos los derechos reservados.www.stonemaiergames.com www.malditogames.comglosario
+Casilla de acción: un óvalo 
+discontinuo donde se puede colocar un solo trabajador. Los trabajadores solo se pueden colocar en la estación en curso y, cada trabajador, solo puede colocarse una vez por año. Algunas casillas de acción son privadas: se encuentran en tu tablero de jugador o en las estructuras que hayas construido. Solo tú puedes colocar trabajadores en tus casillas de acción privadas.
+Envejecer uvas y vino: aumenta 
+el valor de todas las fichas de uva de 
+tu lagar y de las fichas de vino de tu 
+bodega. Las fichas de vino no pueden avanzar hasta bodegas que no hayas 
+construido aún (mediana y grande).
+Bonificación: un beneficio extra 
+que se indica dentro de la casilla de 
+acción. Puedes colocar un trabajador 
+en una bonificación aunque no la 
+utilices (debes realizar la acción, pero la bonificación es opcional). Realiza la bonificación y la acción en cualquier 
+orden.
+Trabajador grande: el trabajador 
+grande actúa como un trabajador normal, pero puede colocarse en una casilla de acción aunque esté ocupada (esta habilidad solo se puede utilizar en el tablero principal). La única manera de que un trabajador grande consiga una bonificación es colocarlo en una casilla de acción con bonificación.
+Cosechar: selecciona un terreno de 
+tu tablero de viñedo que aún no haya sido cosechado este año (cada terreno se puede cosechar solo una vez al año). Suma el valor total de todas las vides rojas de ese terreno y coloca una ficha de uva en el espacio que contiene el valor correspondiente en tu lagar rojo. Repite el mismo proceso con las vides blancas. Las cartas de vid permanecen plantadas en el terreno (simplemente estás cogiendo uvas de esas vides).
+Elaborar vino: usando las uvas de 
+tu lagar, elabora 2 fichas de vino (el 
+tipo de vino de cada ficha puede ser 
+diferente). No puedes combinar 2 uvas 
+del mismo color para hacer un vino del 
+mismo color: 1 uva roja se convierte 
+en 1 vino tinto del mismo valor (si 
+no tienes espacio en tu bodega, se 
+devaluará). Para hacer 1 ficha de 
+vino rosado, combina 1 ficha de uva 
+roja con 1 ficha de uva blanca. Suma 
+el valor de las 2 fichas de uva para 
+determinar el valor de la ficha de vino 
+rosado (como mínimo tendrá que ser 
+de valor 4).  Para hacer 1 ficha de vino espumoso, combina 2 fichas de uva 
+roja con 1 ficha de uva blanca. Suma 
+el valor de las 3 fichas de uva para 
+determinar el valor de la ficha de vino 
+espumoso (como mínimo tendrá que ser de valor 7).
+Colocar fichas de uva en el lagar 
+o fichas de vino en la bodega: algunas cartas de visitante, acciones de 
+comercio o trabajadores especiales te 
+permiten «colocar» un tipo específico 
+de ficha en tu tablero de viñedo. Es totalmente distinto a cosechar vides (para conseguir fichas de uva) o 
+elaborar fichas de vino (moviendo 
+fichas de uva a tu bodega para 
+convertirlas en fichas de vino). Cuando «colocas» una ficha de uva o vino, es como si estuvieras comprando uvas o 
+vino de algún sitio fuera de tu viñedo. 
+Para ello, coge una ficha de cristal y 
+colócala directamente en tu lagar (uva) o bodega (vino).
+Jugar carta de visitante: elige una 
+carta de visitante de tu mano, paga el coste, si es necesario, obtén el beneficio (debes ser capaz de pagar todo el coste para obtener todo el beneficio) y coloca la carta bocarriba en su pila de descartes.
+Trabajador temporal: el jugador 
+que haya elegido la última fila de la 
+tabla de horas de despertar recibe el 
+trabajador temporal gris para utilizarlo 
+durante ese año. El trabajador 
+temporal se considera un trabajador 
+más de dicho jugador en todos los 
+sentidos durante el resto del año en 
+curso, incluida cualquier referencia a 
+«tus trabajadores» o «tus trabajadores 
+normales».  Cuando recuperes tus 
+trabajadores al final del año, retira 
+la ficha de trabajador temporal y 
+devuélvela a la tabla de horas de despertar.
+Comercio: en Viticulture no se puede 
+comerciar entre jugadores. 
+Desarraigar: puedes realizar esta 
+acción mediante el yugo o algunas cartas de visitante. Elige una carta de vid plantada en tu tablero de viñedo y devuélvela a tu mano.
+Tabla de horas de despertar: 
+el jugador que esté en primer lugar de la tabla de horas de despertar realiza el primer turno (p. ej., colocar un trabajador o pasar) en todas las estaciones, seguido del resto de jugadores en orden de despertar. El orden de despertar se mantiene durante todo el año. Utiliza el orden de despertar cuando los jugadores tengan que realizar cualquier decisión secuencial (p. ej., robar cartas en otoño o tomar una decisión sobre una carta de visitante interactiva).
+Traducido por Alfredo López Pérez

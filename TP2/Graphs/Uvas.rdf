@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/Pinot">
+    <ns1:tipo_1 rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_1 rdf:resource="http://example.org/Blanco"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Emparrado"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Trebbiano">
+    <ns1:tipo_2 rdf:resource="http://example.org/Blanco"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Emparrado"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Sangiovese">
+    <ns1:tipo_1 rdf:resource="http://example.org/Tinto"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Ninguno"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Sauvignon_Blanc">
+    <ns1:tipo_3 rdf:resource="http://example.org/Blanco"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Riego"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Chardonnay">
+    <ns1:tipo_4 rdf:resource="http://example.org/Blanco"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Emparrado"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Riego"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Malvasia">
+    <ns1:tipo_1 rdf:resource="http://example.org/Blanco"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Ninguno"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Syrah">
+    <ns1:tipo_2 rdf:resource="http://example.org/Tinto"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Emparrado"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Cabernet_Sauvignon">
+    <ns1:tipo_4 rdf:resource="http://example.org/Tinto"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Emparrado"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Riego"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Merlot">
+    <ns1:tipo_3 rdf:resource="http://example.org/Tinto"/>
+    <ns1:necesita_ rdf:resource="http://example.org/Riego"/>
+  </rdf:Description>
+</rdf:RDF>

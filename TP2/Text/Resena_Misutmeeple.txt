@@ -1,0 +1,195 @@
+Introducción
+La Toscana espera tu habilidad para elaborar vino y tu astucia estratégica. Plantarás vides, cosecharás la uva, envejecerás los vinos y cumplirás los pedidos de los comerciantes para crear la mejor bodega de Italia.
+Y así se nos presenta Viticulture, un juego diseñado por diseñado por Jamey Stegmaier y Alan Stone, los también responsables de Euphoria: Build a Better Dystopia. El juego fue financiado mediante una campaña de micromecenazgo a través de KickStarter en 2013. Para tal efecto se fundó la editorial Stonemaier Games (fusión de parte de los apellidos de los dos autores). El pasado 2014 tuvo una segunda edición con motivo del lanzamiento de Tuscany, la expansión de Viticulture. De las ilustraciones se encargaron Jacqui Davis, Beth Sobel y David Montgomery. Los dos primeros ilustradores también dieron vida a Euphoria, mientras que el sr. Montgomery no tiene otros proyectos en el mundo lúdico a parte del título que nos ocupa.
+El juego no ha sido editado en nuestro país y tiene cierta dependencia del idioma, ya que las cartas y los textos de los tableros están en inglés (aunque son textos bastante asequibles). El manual puede descargarse en castellano en la propia web de la editorial. Permite partidas de 2 a 6 jugadores, con una edad mínima sugerida de 13 años y una duración aproximada de unos 90 minutos. El precio de compra recomendado es de 49,95 €. Para esta reseña se ha utilizado la segunda edición de Stonemaier Games.
+Importante: si ya conoces el juego y/o sólo te interesa mi opinión sobre el mismo, puedes pasar directamente al apartado de Opinión. Los apartados Contenido y Mecánica están destinados especialmente a aquellos que no conocen el juego y prefieren hacerse una idea general de cómo funciona.
+Ir a la Opinión Personal
+Contenido
+Dentro de una caja de cartón de dos piezas (tapa y fondo), de dimensiones 26,7×21,6×10,2 cm. (tamaño peculiar, más pequeño que una caja rectangular de Eurogame, aunque con más fondo en la caja), nos encontramos con los siguientes elementos:
+
+Tablero Principal reversible (de cartón)
+118 Cartas (68×45 mm.)
+
+42 cartas de vid (mazo verde)
+36 cartas de pedido (mazo púrpura)
+20 cartas de visitante de verano (mazo amarillo)
+20 cartas de visitante de invierno (mazo azul)
+
+
+Liras (de cartón)
+
+52 monedas de 1 Lira
+13 monedas de 2 Liras
+8 monedas de 5 Liras
+
+
+6 Tableros Individuales Reversibles (de cartón)
+36 trabajadores (6 de cada color: verde, morado, naranja, azul, amarillo y blanco) (de madera)
+6 trabajadores grandes (1 de cada color) (de madera)
+Trabajador temporal Gris (de madera)
+60 fichas de uva y vino (de cristal)
+6 fichas de despertador (gallos) (de madera)
+6 fichas de puntos de victoria (corchos) (de madera)
+6 fichas de pago residual (botellas de vino) (de madera)
+48 fichas de estructura de madera (8 fichas distintas para cada color) (de madera)
+
+
+42 cartas de vid (mazo verde)
+36 cartas de pedido (mazo púrpura)
+20 cartas de visitante de verano (mazo amarillo)
+20 cartas de visitante de invierno (mazo azul)
+
+
+52 monedas de 1 Lira
+13 monedas de 2 Liras
+8 monedas de 5 Liras
+
+Mecánica
+Viticulture es un juego de colocación de trabajadores en el que llevaremos el control de una finca en la que gestionaremos todo el proceso de producción del vino. La principal diferencia con otros juegos del mismo estilo es el uso de una serie de cartas que servirán para potenciar acciones o definir nuestras estrategias a largo plazo.
+Conceptos Básicos
+Empecemos con el Tablero Principal. Tres grandes zonas:
+
+En la parte superior tenemos los espacios habilitados para los 4 mazos (vides, visitantes de verano, pedidos y visitantes de invierno) y sus descartes.
+En la zona central, ocupando prácticamente todo el tablero, tenemos las distintas acciones que los jugadores podrán realizar, divididos en acciones de verano (de color amarillo) y acciones de invierno (de color azul). Existe una acción especial que puede ser usada tanto en verano como en invierno y no tiene límite de capacidad de trabajadores (situada en la zona inferior central del tablero). Además, a la izquierda tenemos la tabla de despertador, que marcará el orden de turno para todo el año una vez que se rellene. A la derecha tenemos un pequeño resumen de cómo se desarrolla un año y, justo debajo, un rondel para los pagos residuales.
+En la zona inferior tenemos el marcador de puntuación.
+
+Por otro lado tenemos los Tableros Individuales de cada jugador, divididos también en tres partes bien diferenciadas:
+
+En la zona superior tenemos los tres campos en los que podremos plantar los distintos tipos de vides.
+En la zona inferior izquierda tenemos los lagares donde iremos almacenando la uva recogida en la vendimia.
+En la zona inferior derecha tenemos las bodegas donde iremos almacenando el vino una vez embotellado.
+
+Adicionalmente, en distintas ubicaciones del tablero hay unos pequeños dibujos identificando las distintas Estructuras que podremos ir construyendo en nuestros dominios. Las podemos dividir según su funcionalidad:
+
+Irrigación y Emparrado: permiten plantar determinadas cartas de Vid.
+Bodega Mediana y Bodega Grande: permiten almacenar vinos de mayor valor.
+Yugo: permite ejecutar una acción en el tablero individual.
+Sala de Cata, Molino y Caseta: potencian ciertos aspectos del juego general.
+
+El juego tiene dos grandes mecánicas. La primera es la colocación de trabajadores, que en este juego es algo peculiar: las acciones podrán ser activadas por varios jugadores en una misma ronda, pero no por todos. Depende del número de jugadores. Así pues, para 2 jugadores solo está habilitado el primer espacio, para 3-4 jugadores se habilita el segundo espacio (con bonificación), y para 5-6 jugadores se habilitan los tres espacios. Además, el primero que la ejecute disfrutará de una bonificación. Es importante indicar que un espacio de acción solo podrá ocuparse si puede ejecutarse completamente, incluida la bonificación. En caso contrario, un jugador no podría ocupar dicha posición, salvo que este sea el único espacio disponible, en cuyo caso si se podrá ocupar sin recibir la bonificación. Adicionalmente, en esta segunda edición se ha añadido un trabajador grande, que tiene la ventaja de poder activar cualquier acción, incluso si todos los espacios están ocupados.
+La otra gran mecánica es la gestión de la mano de cartas, por lo que hay que hablar de los distintos tipos de cartas que podrán robarse:
+
+Cartas de Vid: son las distintas variedades de uva que podremos plantar en nuestros campos. Estas cartas poseen en banda superior el nombre de la variedad, así como un posible requisito en infraestructuras (emparrado y/o irrigación), aunque algunas variedades no necesitan ninguna. En la zona inferior tendremos los tipos de uva y el valor de ésta al vendimiar.
+Cartas de Pedido: son pedidos que los jugadores podrán satisfacer con vinos de sus bodegas. En la esquina superior derecha aparecen los vinos requeridos (valor y tipo). En la zona inferior tendremos los Puntos de Victoria obtenidos al satisfacer el pedido y el avance en el rondel de pagos residuales.
+Cartas de Visitantes de verano: representan a distintos profesionales que pueden ofrecernos sus servicios. Estas cartas solo podrán jugarse en verano y, normalmente, ofrecen acciones potenciadas o una segunda vía para obtener puntos de victoria.
+Cartas de Visitantes de invierno: funcionan de forma idéntica a las de Visitantes de verano, con la única diferencia de que solo podrán jugarse durante el invierno.
+
+En el juego existen dos Tipos de Uva, tinta y blanca, las cuales se almacenarán en los Lagares una vez que finalice la vendimia. Estos lagares muestran nueve posibles valores (del 1 al 9) para cada una de los dos tipos. Estos valores se encuentran separados en tres filas para cada tipo, de forma que se les asocia un precio en función de la fila en la que se encuentre el valor de una determinada uva. Es decir, que uvas de distintos valores pueden tener el mismo precio. Es importante indicar que los valores totales indicados en las cartas de vid son unos valores máximos, ya que el valor de la uva al ser recogida dependerá de la capacidad de almacenamiento de nuestros lagares. Si el valor de una uva ya se encuentra ocupado, tendremos que almacenarla en un espacio anterior, reduciendo su valor. Si no existiesen espacios entre el valor máximo de la uva hacia atrás, la uva se perdería.
+El Vino se produce a partir de la uva recogida. El valor de dicho vino estará directamente relacionado con el valor de la uva utilizada. Tenemos cuatro tipos de vinos, los cuales requieren diferentes combinaciones de uvas:
+
+Tinto: necesita de una unidad de uva tinta. El valor máximo del vino producido corresponderá con el valor de la uva tinta utilizada. Este valor oscila entre 1 y 9.
+Blanco: necesita de una unidad de uva blanca. El valor máximo del vino producido corresponderá con el valor de la uva blanca utilizada. Este valor oscila entre 1 y 9.
+Rosado: necesita de una unidad de uva tinta y de una unidad de uva blanca. El valor máximo del vino producido corresponderá con la suma de los valores de las uvas utilizadas. Este valor oscila entre 4 y 9.
+Espumoso: necesita de dos unidades de uva tinta y de una unidad de uva blanca. El valor máximo del vino producido corresponderá con la suma de los valores de las uvas utilizadas. Este valor oscila entre 6 y 9.
+
+Al igual que ocurría con la vendimia, el valor con el que es producido un vino, además de los valores de las uvas utilizadas, dependerá de la capacidad de almacenamiento de nuestras bodegas. Al producir un vino, si el valor máximo de este ya se encuentra ocupado por otro vino, tendremos que ubicarlo en un valor inferior. Si no dispusiésemos de espacios, el vino se perdería. Al principio comenzamos con una bodega pequeña, en la que solo podremos almacenar vinos de hasta valor 3. Con la bodega mediana podremos almacenar vinos de hasta valor 6. Y con la bodega grande podremos almacenar vinos de hasta valor 9. Para construir la bodega grande es necesario haber edificado la bodega mediana previamente.
+Tanto las uvas como los vinos irán envejeciendo con el paso de los años, aumentando su valor en el proceso. Como veremos en la mecánica, al final de cada año, uvas y vinos aumentarán en una unidad su valor, siempre y cuando la capacidad de almacenamiento de bodegas y lagares lo permita. Si no, mantendrán su valor.
+Como hemos dicho, en nuestros campos podremos ir colocando las cartas de Vid. Solo existe una limitación a la hora de mezclar las distintas variedades en un mismo campo: que el valor total de todas las uvas de las cartas colocadas en dicho campo no sobrepase un total de 6. Por lo demás, podemos intentar cualquier combinación. Existen nueve variedades distintas, con diversos valores para los tipos de uvas y requisitos para poder plantar.
+Acabo de hablar de los Pagos Residuales. Como hemos visto antes, estos se representan mediante un pequeño rondel en la zona inferior derecha. Cada vez que satisfagamos un pedido, nuestro marcador avanzará en sentido horario una serie de posiciones. Al final del año recibiremos las liras indicadas en la posición que indique nuestro marcador.
+Además de las uvas y los vinos, el otro gran recurso que gestionaremos a lo largo de la partida es el dinero. Este será utilizado, principalmente, para la construcción de estructuras que potencien nuestro sistema de producción. Las vías para obtener dinero son: venta de vinos mediante el pago residual, cartas de visitantes (de invierno y de verano) y ciertas acciones en el tablero principal.
+El último concepto es el del Despertar para trabajar. Como veremos en la mecánica, en la primera estación de cada año, la primavera, los jugadores decidirán la posición en el orden de turno, de forma que cuanto más temprano se despierten se aseguraran disponer más acciones libres, mientras que cuanto más tarde comiencen a faenar, mayores beneficios podrán obtener a costa de arriesgarse no tener disponibles algunas acciones.
+Y con esto ya tenemos suficiente.
+Preparación de la Partida
+
+Se despliega el tablero en el centro de la mesa.
+Cada jugador recibe un tablero individual y todos los elementos del color elegido.
+Se disponen las monedas en una reserva común, entregando 3 Liras a cada jugador.
+También se dejan cerca del tablero los marcadores para las uvas y los vinos.
+Se separan las cartas de Pinot del mazo de Vid y se entrega una de estas cartas a cada jugador. Las sobrantes se reintroducen en el mazo.
+Se barajan los 4 mazos de cartas por separados y se colocan en el espacio correspondiente en el tablero principal.
+Se colocan las fichas de corcho de los jugadores en la posición 0 del marcador de puntos de victoria
+Se colocan las fichas de botellas en la Lira del marcador de Valor Residual.
+Se colocan las fichas de Gallo cerca de la tabla de Despertador.
+Cada jugador coloca sobre su tablero el trabajador grande y dos trabajadores pequeños, dejando el resto junto a todas las fichas de estructuras de su color.
+Se coloca el meeple del trabajador temporal en el último espacio de la tabla de Despertador.
+El jugador más joven será el jugador inicial, recibiendo la ficha de uvas.
+
+¡Y ya podemos comenzar!
+Desarrollo de la Partida
+Una partida de Viticulture se desarrolla a lo largo de un número indeterminado de rondas, finalizando la partida en aquella en la que se cumple la condición de finalización. Cada ronda, a su vez, se divide en cinco fases: las cuatro estaciones (primavera, verano, otoño e invierno) y el final del año.
+Fase I: Primavera
+Empezando por el jugador inicial y siguiendo en sentido de las agujas del reloj, cada jugador coloca su gallo en una de las posiciones de la tabla de despertador, obteniendo las recompensas correspondientes. Para el resto del año se utilizará el orden establecido en esta tabla.
+Fase II: Verano
+Siguiendo el orden de la tabla de despertador, cada jugador podrá:
+
+Ejecutar una acción de verano, colocando su trabajador en uno de los espacios habilitados en las distintas acciones de verano (dependiente del número de jugadores). Es obligatorio poder ejecutar completamente la acción, incluida la bonificación, si la hubiese, salvo que el espacio con bonificación sea el único disponible. En este caso podría utilizarse sin recibir la bonificación.
+Pasar, no pudiendo volver a ejecutar acciones en esta estación para el año en curso.
+
+Las acciones disponibles en verano son:
+
+Tomar carta de Vid: el jugador roba una carta del mazo correspondiente y la coloca en su mano. Bonificación: tomar una segunda carta de Vid.
+Organizar una Visita: permite obtener unos ingresos extras de 2 Liras por visitar nuestras instalaciones. Si se ha construido la Sala de Catas, además, se obtiene un Punto de Victoria (solo 1 por año). Bonificación: se obtiene una Lira adicional.
+Construir una Estructura: se paga a la banca la cantidad de Liras correspondientes a la estructura que se desea construir y se coloca en el lugar adecuado (tapando el coste). Bonificación: se aplica un descuento de 1 Lira.
+Plantar carta de Vid: permite colocar una carta de Vides uno de nuestros tres campos, siempre que no incumplamos que el valor conjunto de las variedades supere un total de 6. Adicionalmente, si tenemos construido el Molino, anotamos un punto de victoria (solo 1 por año). Bonificación: plantar una segunda carta de Vid (puede ser en otro campo).
+Vender Uvas: permite vender cualquier número de unidades de uva por el precio indicado en la fila correspondiente a su valor (1, 2 o 3 Liras). Bonificación: se obtiene un punto de victoria.
+Jugar carta de Visitante de verano: se juega una carta de visitante de verano, aplicando su efecto para, posteriormente, descartarla. Bonificación: jugar una segunda carta de Visitante de verano.
+
+Existen dos acciones especiales que pueden ser ejecutadas tanto en verano como en invierno
+
+Ayudar (en el tablero principal): se obtiene 1 Lira. Esta acción no tiene límite de trabajadores.
+Arrancar Vid (en el tablero individual): si se ha construido el yugo y el espacio no está ocupado por un trabajador, se puede colocar un trabajador en esta acción para recoger una carta de Vid de uno de nuestros campos y llevarla a la mano.
+
+Fase III: Otoño
+Siguiendo el orden de la tabla de despertador, cada jugador podrá robar una carta de Visitante de verano o de invierno. Los jugadores que hayan construido la Caseta podrán tomar una segunda carta de Visitante, ya sea de verano o de invierno, independientemente de la primera carta elegida.
+Fase IV: Invierno
+Siguiendo el orden de la tabla de despertador, cada jugador podrá:
+
+Ejecutar una acción de verano, colocando su trabajador en uno de los espacios habilitados en las distintas acciones de invierno. Es obligatorio poder ejecutar completamente la acción, incluida la bonificación, si la hubiese, salvo que el espacio con bonificación sea el único disponible. En este caso podría utilizarse sin recibir la bonificación.
+Pasar, no pudiendo volver a ejecutar acciones en esta estación para el año en curso.
+
+Las acciones disponibles son:
+
+Cosechar: se elige un campo que aún no haya sido cosechado este año y se coloca una ficha de uva en los lagares por cada tipo de uva presente en dicho campo. El valor de la uva será la suma de los valores para cada uno de los dos tipos. Si el espacio para el valor de una uva está ocupado, se coloca en el valor inferior más próximo disponible. Colocaremos un marcador sobre el campo para indicar que ya ha sido cosechado este año. Bonificación: cosechar un segundo campo.
+Pisar Uva: convierte uvas en vino. La acción permite producir dos vinos, independientemente de la cantidad y tipos de uva que necesite. Los vinos generados corresponderán a la suma de los valores de las uvas utilizadas. Si no hubiese espacio en las bodegas, se coloca en el valor inferior más próximo disponible. Bonificación: produce un tercer vino.
+Tomar carta de Pedido: se toma una carta de Pedido del mazo. Bonificación: tomar una segunda carta de Pedido.
+Jugar carta de Visitante de invierno: permite jugar una carta de Visitante de invierno, descartándola posteriormente. Bonificación: jugar una segunda carta de Visitante de invierno.
+Satisfacer Pedido: permite completar un pedido, descartando los marcadores de los vinos correspondientes. Estos tienen que ser exactamente del tipo indicado en la carta y con un valor igual o superior al solicitado. A continuación, se descarta la carta, se avanza en el marcador de Puntos de Victoria y en el marcador de Valor Residual tantas posiciones como indique la susodicha carta. El este marcador residual dejará de avanzar una vez alcance la posición de valor 5. Bonificación: se obtiene un punto de victoria adicional.
+Entrenar Trabajador: pagando 4 Liras se entrena un nuevo trabajador (si quedan en la reserva). Este trabajador estará disponible para el próximo año. Bonificación: se obtiene un descuento de 1 Lira para entrenar al trabajador, costando solo 3 Liras.
+
+Existen dos acciones especiales que pueden ser ejecutadas tanto en verano como en invierno
+
+Ayudar (en el tablero principal): se obtiene 1 Lira. Esta acción no tiene límite de trabajadores.
+Cosechar (en el tablero individual): si se ha construido el yugo y el espacio no está ocupado por un trabajador, se puede colocar un trabajador en esta acción para cosechar un campo que no haya sido cosechado este año. Colocaremos un marcador sobre el campo para indicar que este ha sido cosechado este año.
+
+Fase V: Fin de Año
+Se realizan los siguientes procesos:
+
+Las uvas y los vinos envejecen, aumentando su valor en uno, salvo que ya se encuentren en el máximo posible (no hay ningún valor superior libre accesible).
+Los jugadores reciben ingresos por el valor residual de los pedidos satisfechos. Cada jugador obtiene el número de Liras indicadas en el rondel de valor residual.
+Se comprueba si algún jugador excede el límite de la mano de cartas. Si algún jugador poseyese más de 7 cartas, tendrá que descartarse hasta cumplir el límite.
+Los trabajadores vuelven a los tableros de cada jugador.
+Se retiran los marcadores de aquellos campos que han sido cosechados.
+Finalmente, la ficha de jugador inicial para al jugador de la izquierda.
+
+Fin de la Partida
+La partida finaliza en la ronda en la que al menos un jugador alcanza o sobrepasa los 20 Puntos de Victoria. Al término de esta, el ganador será el jugador con más Puntos de Victoria. En caso de empate se utilizan los siguientes elementos para desempatar (en orden):
+
+Mayor cantidad de Liras.
+Valor total del vino en las bodegas.
+Mayor valor de sus uvas en el lagar.
+
+Opinión Personal
+Hoy voy a comenzar hablando del hype. Ya sabemos lo mala que es esa sensación que se apodera de nuestra mente y no nos deja pensar con claridad. Un poderoso y ferviente deseo comienza a gestarse en nuestro interior y no somos capaces de concentrarnos en otra cosa hasta que, una de dos, o tiramos de billetera y satisfacemos nuestro impulso materialista o logramos aplacar nuestras ansias y dejamos que el anhelo se calme, para alivio de nuestra economía.
+Esto ha sido así desde que el capitalismo domina nuestras vidas. Agentes externos que crean en nosotros una necesidad que satisfacer. Podríamos vivir perfectamente sin ese elemento, pero una vez que nos inoculan el virus, hasta que no obtenemos nuestra droga no podremos ser felices. Al menos hasta el próximo objeto de deseo.
+El problema surge cuando el elemento a conseguir es, inicialmente, etéreo. Y no me refiero al deseo, sino a la imposibilidad material de obtener aquello que aplacaría nuestras ansias. Y esto es lo que ocurre con las tan de moda campañas de micromecenazgo. Nos ponen los dientes largos con una simple promesa, y allá que vamos como Miuras. Pero, como digo, el simple hecho de apoyar una campaña no calma absolutamente nada. Simplemente nos aporta una pizca de tranquilidad porque hemos establecido un contrato, el cual puede ser roto por la otra parte en cualquier momento. Una promesa de que en un futuro no muy lejano obtendremos eso que nos han prometido como recompensa por apoyar a los creadores.
+Mientras tanto, el hype puede subir a causa del buen progreso del desarrollo del producto o caer en picado por la mala praxis de los responsables. Pero, indefectiblemente, tendremos que vivir con él durante unos cuantos meses, lo que no suele ser positivo a la hora de evaluar el producto final. Hemos tenido demasiado tiempo para imaginar lo perfecto que va a ser todo. Cumplir las expectativas es una tarea complicada. Algo muy similar a lo que ocurre con las adaptaciones cinematográficas de libros que el espectador ha consumido previamente. Rara vez todo es tan perfecto como en su cabeza.
+Y con todo este rollo, llegamos a Viticulture, que fue mi primera gran campaña de micromecenazgo. Ya en su día le seguí la pista a la primera edición, pero no anduvimos lo suficientemente rápido para conseguir una copia y obtenerla fuera de la campaña era prohibitivo. El juego era precioso y el tema bastante atractivo. Una pena.
+A todo esto, debido al gran éxito de la campaña, los chicos de Stonemaier Games decidieron desarrollar una expansión a base de módulos al estilo Fresko. Y, teniendo en cuenta el gran éxito cosechado en la primera edición, ¿por qué no repetir con el proceso? Una nueva campaña de micromecenazgo en la que de manera conjunta a la expansión se iba a realizar una nueva tirada del juego base, teniendo la opción de conseguir una edición coleccionista con ambos títulos en una caja especial.
+Esta vez no dejamos pasar la ocasión. Y la espera se hizo eterna. Sobre todo porque Jamey publicaba periódicamente actualizaciones de estado en el proyecto, aumentando las ganas de tenerlo ya en casa. Afortunadamente los plazos estuvieron más o menos ajustados a lo prometido y nos llegó el juego con más kilos de mi colección. Entre juego básico y expansión sobrepasan los cinco kilos.
+Esta disertación puede serviros para intuir por donde van a ir los tiros. Y es que Viticulture ofrece todo lo que promete, pero… ¿será suficiente para este humilde tochorreseñador?
+Empezaré con una advertencia: que nadie espero un juego duro. Viticulture es un familiar con chicha. Alejémonos de las posibles comparaciones con ese monstruo de los Eurogames que es Vinhos. Juegan en ligas completamente distintas. Únicamente comparten el tema. Dicho esto, procedamos.
+Pero no confundamos el término familiar con facilón o sencillo. La primera comparación directa que viene a nuestras mentes es Stone Age. Ambos dos tienen una mecánica de colocación de trabajadores y manejan conceptos que son asumibles por jugadores no iniciados sin que los expertos estén bostezando continuamente.
+Continúo con las semejanzas entre títulos. La colocación en ambos casos no es completamente exclusiva. En la mayoría de acciones posibles en ambos juegos existe la posibilidad de que varios jugadores coloquen trabajadores en los mismos lugares, aunque hay un beneficio para los más rápidos. En el caso del juego de la edad de piedra era el poder elegir cuantos trabajadores se colocan (o elegir alguna de las acciones exclusivas) y en Viticulture la opción de optar a una bonificación que añade valor a la acción.
+Pero hasta aquí llegan las similitudes más o menos evidentes. Y es que en Viticulture tenemos otra mecánica principal, con mayor peso si cabe que la colocación de trabajadores: la gestión de la mano de cartas. Una vez que juegas un par de partidas te das cuenta de que las diferencias se gestan en el buen hacer de los jugadores a la hora de decidir que cartas tomar, cuales jugar y que otras descartar llegado el caso.
+Es fundamental entender esto para poder disfrutar del juego de Stegmaier y Stone. Pensar que únicamente podemos alcanzar la victoria gracias a nuestra poderosa capacidad de planificación a la hora de colocar los trabajadores en el tablero. El azar tendrá un papel, no definitivo, pero si importante. De la dama fortuna dependerá que las cartas de Vid que robemos y plantemos sean más o menos acordes con las cartas de Pedido que pasen por nuestra mano.
+Para paliar esta posible discrepancia aparecen las cartas que más usaremos durante la partida, los Visitantes. Son las variantes que nos permitirán diferenciar nuestra estrategia del resto de jugadores. El encontrar buenos combos será vital para alzarnos con la victoria. Pero, de nuevo, los hados tendrán algo que decir, aunque prácticamente todas estas cartas ofrecen ventajas muy interesante que intentaremos aprovechar.
+Pero, aunque la suerte pueda intervenir a la hora de ofrecernos combos más o menos suculentos, estos solo podrán ser aprovechados si no descuidamos el eje principal del juego, que es la producción de vino. Aquí nos damos cuenta de que hay que desarrollar una planificación a largo plazo bastante importante. La prueba de ello es que nuestro marcador de puntos tardará en arrancar unos años. Esto es debido a que comenzamos únicamente con tres trabajadores y para poder completar un pedido hay que realizar bastantes acciones: robar cartas de Vid, plantarlas, cosechar y producir el vino. Y todo esto teniendo en cuenta los requisitos de los pedidos. Y eso sin contar que muchas veces tendremos que dejar pasar algún año para que la uva o los vinos alcancen un valor adecuado.
+Esto viene provocado por uno de los elementos más interesantes del diseño: el reparto de trabajadores. Como hemos visto en la mecánica, cada año se divide en cuatro periodos, de los cuales dos son puramente transicionales, estando en el verano y en el invierno el meollo del asunto. Y para ambas estaciones contaremos con un único grupo de trabajadores, de forma que los que utilicemos en verano no podrán faenar en invierno y viceversa. Habrá que hilar muy fino, pues cada acción vale su peso en oro.
+Y tiene tanta importancia porque no debemos olvidar que, al final, se trata de una carrera por el prestigio de tener la mejor bodega. Y es aquí donde el juego no termina de cuajar. Esta forma tan abrupta, sin saber si un jugador va a finalizar la partida en un momento poco oportuno hace que el clímax final quede bastante descafeinado. Probablemente sea debido a que en los juegos de colocación de trabajadores estamos acostumbrados a diseños más encorsetados en este sentido, aunque es cierto que uno de los grandes títulos de los últimos tiempos hacía uso de una carrera como excusa para montar una serie de mecánicas a su alrededor. Más bien es una especie de coitus interruptus, ya que cuando el juego se pone más interesante es cuando finaliza, dejándote un sabor agridulce.
+Lo peor de esto es que, salvo combos espectaculares, no deja espacio a posibles remontadas. En todas las partidas que he jugado, el que se coloca en cabeza con una ventaja relativamente decente (2-3 puntos) es difícil que sea desplazado de la primera posición. Esto además se acentúa en partidas a 2 jugadores, en las que las bonificaciones de las acciones no están disponibles. Si los jugadores son del mismo nivel, el proceso normal los mantendrá parejos, y serán los pequeños detalles lo que tendrán mayor importancia.
+Volviendo a los aciertos del diseño, la implementación del tema es magnífica. A esto ayuda la grandiosa producción, de la que hablaremos más adelante. Todas las acciones cuadran más o menos con el proceso de fabricación del vino, salvando las distancias. A destacar especialmente la mecánica de selección de turno al estilo Fresko o Alquimistas y la separación en estaciones de la ronda. Para los que esta inmersión temática es algo a tener en cuenta, Viticulture es de los mejores juegos que ha pasado por mi mesa.
+Y después de la zanahoria, toca palo. La escalabilidad es otro elemento donde el juego flojea. Como he dicho, a 2 jugadores desaparece la opción de optar a acciones con bonificación, por lo que las cartas adquieren aun mayor protagonismo. El principal problema es que en partidas uno contra uno es aún más complicado que se den remontadas. Por mucho que te esfuerces, si las cartas no te dan un respiro, difícilmente podrás recortar diferencias. A 3 o 4 es como mejor funciona el juego, tanto por opciones como por duración. Y a 5 o 6 la partida puede alargarse demasiado para las sensaciones que proporciona el juego, además de resultar corto en cuanto a cartas, barajándose el mazo de invitados, tanto de verano como de invierno, un par de veces a lo largo de la partida.
+La rejugabilidad es relativamente aceptable, ya que, como ya he dicho, una vez dominados los procesos de producción y afinar en la planificación, la clave reside en las cartas, especialmente en las de visitantes. Así pues, las partidas dependerán mucho de la mano que tengamos que gestionar. Pero las sensaciones no serán muy distintas.
+Pasemos a la edición. Si por algo se caracterizan las exitosas campañas de Stonemaier Games es por su espléndida producción. Y esta segunda reimpresión de Viticulture, incluso, eleva el nivel. El cartón es de una buena calidad, con un grosor y una firmeza bastante aceptables. Los elementos de madera tienen un detalle espectacular, aunque esto puede ser contraproducente en algunos casos, ya que algunos elementos pueden romperse fácilmente al ser demasiado finos. Pero bueno, somos jugadores cuidadosos y no maltratamos nuestros queridos tesoros. Las cartas son de tamaño euro mini, también de un grosor adecuado, con el borde blanco y con un acabado con brillo (me refiero a lo contrario de mate). Ya sabéis que yo siempre recomiendo enfundar, aunque este es uno de esos casos en los que no es estrictamente necesario. Pero como digo, en esta segunda edición se han añadido algunos elementos que mejoran el acabado de forma increíble. El elemento que más destaca son unas pequeñas cuentas semiesféricas de cristal que se utilizan como marcadores para las uvas y los vinos. El sistema es genial ya que al colocarla sobre un determinado valor, el marcador hace de lente, de forma que vemos el valor aumentado, además de resultar muy agradable a la vista y al tacto. Además se ha reestructurado toda la caja, añadiendo un fabuloso inserto en el que podremos contener todos los elementos de forma ordenada. Un sobresaliente en este aspecto.
+Respecto a las ilustraciones, la verdad es que el trabajo del trío formado por Davis, Sobel y Montgomery es bastante interesante, con unos trazos ligeramente difuminados que son muy relajantes, muy en consonancia con el tema del juego. Dan ganas de sentarse en una terraza al atardecer, con tu buena copa de vino, compañía agradable y, por supuesto, una divertida partida al juego. Aunque soy consciente de que es ese estilo de dibujo que a muchos puede resultar indiferente.
+Y vamos cerrando. Viticulture es de esos juegos que ofrecen lo que prometen pero que no terminan de satisfacerte del todo por pequeños, pero importantes, detalles. Un Eurogame con una buena mezcla de mecánicas, con ciertos elementos originales (como la separación en estaciones para la colocación de trabajadores) y una excelente inmersión temática. Sin embargo, el juego falla en el cierre, ofreciendo un final abrupto y poco satisfactorio, además de, en determinadas ocasiones, tener una importante dependencia del azar. De hecho, la mecánica de gestión de la mano puede llegar a tener más peso que la de colocación de trabajadores. Eso sí, una producción impecable. De esos juegos que siempre apetece tener en una colección, pero que no es imprescindible. Por todo esto le doy un…

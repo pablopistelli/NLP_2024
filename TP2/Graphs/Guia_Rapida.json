@@ -1,0 +1,321 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "resumen"
+        },
+        {
+            "id": "espacio"
+        },
+        {
+            "id": "jugador"
+        },
+        {
+            "id": "gallo"
+        },
+        {
+            "id": "jugadores"
+        },
+        {
+            "id": "izquierda"
+        },
+        {
+            "id": "bonificacion"
+        },
+        {
+            "id": "guia"
+        },
+        {
+            "id": "vid"
+        },
+        {
+            "id": "pvano"
+        },
+        {
+            "id": "recorrido"
+        },
+        {
+            "id": "max"
+        },
+        {
+            "id": "otono"
+        },
+        {
+            "id": "acciones"
+        },
+        {
+            "id": "tiempo"
+        },
+        {
+            "id": "vinos"
+        },
+        {
+            "id": "valor"
+        },
+        {
+            "id": "ficha"
+        },
+        {
+            "id": "terreno"
+        },
+        {
+            "id": "vides"
+        },
+        {
+            "id": "uvas"
+        },
+        {
+            "id": "cosechar"
+        },
+        {
+            "id": "tipo"
+        },
+        {
+            "id": "fichas"
+        },
+        {
+            "id": "reglas"
+        },
+        {
+            "id": "crear"
+        },
+        {
+            "id": "rosado"
+        },
+        {
+            "id": "espumoso"
+        },
+        {
+            "id": "one"
+        },
+        {
+            "id": "parte"
+        },
+        {
+            "id": "monto"
+        },
+        {
+            "id": "color"
+        },
+        {
+            "id": "pagos"
+        },
+        {
+            "id": "trabajadores"
+        },
+        {
+            "id": "baraja"
+        },
+        {
+            "id": "espacios"
+        },
+        {
+            "id": "azar"
+        },
+        {
+            "id": "uproot"
+        },
+        {
+            "id": "carta"
+        },
+        {
+            "id": "liraL"
+        },
+        {
+            "id": "tu"
+        },
+        {
+            "id": "pv"
+        },
+        {
+            "id": "ano"
+        },
+        {
+            "id": "cantidad"
+        },
+        {
+            "id": "5"
+        },
+        {
+            "id": "recompensa"
+        },
+        {
+            "id": "toma"
+        },
+        {
+            "id": "precio"
+        },
+        {
+            "id": "hacer"
+        },
+        {
+            "id": "anorecibe"
+        },
+        {
+            "id": "estaciones"
+        },
+        {
+            "id": "edicion"
+        }
+    ],
+    "links": [
+        {
+            "source": "resumen",
+            "target": "espacio"
+        },
+        {
+            "source": "espacio",
+            "target": "terreno"
+        },
+        {
+            "source": "jugador",
+            "target": "gallo"
+        },
+        {
+            "source": "jugador",
+            "target": "color"
+        },
+        {
+            "source": "jugador",
+            "target": "pagos"
+        },
+        {
+            "source": "jugador",
+            "target": "azar"
+        },
+        {
+            "source": "jugador",
+            "target": "liraL"
+        },
+        {
+            "source": "jugador",
+            "target": "cantidad"
+        },
+        {
+            "source": "jugador",
+            "target": "recompensa"
+        },
+        {
+            "source": "jugador",
+            "target": "carta"
+        },
+        {
+            "source": "jugadores",
+            "target": "izquierda"
+        },
+        {
+            "source": "jugadores",
+            "target": "bonificacion"
+        },
+        {
+            "source": "jugadores",
+            "target": "trabajadores"
+        },
+        {
+            "source": "guia",
+            "target": "vid"
+        },
+        {
+            "source": "vid",
+            "target": "toma"
+        },
+        {
+            "source": "pvano",
+            "target": "recorrido"
+        },
+        {
+            "source": "max",
+            "target": "otono"
+        },
+        {
+            "source": "acciones",
+            "target": "tiempo"
+        },
+        {
+            "source": "vinos",
+            "target": "vinos"
+        },
+        {
+            "source": "vinos",
+            "target": "fichas"
+        },
+        {
+            "source": "valor",
+            "target": "ficha"
+        },
+        {
+            "source": "terreno",
+            "target": "precio"
+        },
+        {
+            "source": "vides",
+            "target": "uvas"
+        },
+        {
+            "source": "cosechar",
+            "target": "tipo"
+        },
+        {
+            "source": "fichas",
+            "target": "reglas"
+        },
+        {
+            "source": "crear",
+            "target": "rosado"
+        },
+        {
+            "source": "crear",
+            "target": "espumoso"
+        },
+        {
+            "source": "one",
+            "target": "valor"
+        },
+        {
+            "source": "parte",
+            "target": "monto"
+        },
+        {
+            "source": "baraja",
+            "target": "espacios"
+        },
+        {
+            "source": "uproot",
+            "target": "carta"
+        },
+        {
+            "source": "carta",
+            "target": "anorecibe"
+        },
+        {
+            "source": "tu",
+            "target": "fichas"
+        },
+        {
+            "source": "pv",
+            "target": "ano"
+        },
+        {
+            "source": "pv",
+            "target": "monto"
+        },
+        {
+            "source": "5",
+            "target": "pv"
+        },
+        {
+            "source": "toma",
+            "target": "fichas"
+        },
+        {
+            "source": "hacer",
+            "target": "espacio"
+        },
+        {
+            "source": "estaciones",
+            "target": "edicion"
+        }
+    ]
+}
