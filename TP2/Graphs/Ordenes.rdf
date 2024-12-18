@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/Carta_8">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:vale_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_15">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_19">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:vale_ rdf:resource="http://example.org/2"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_1">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:vale_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/2"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_30">
+    <ns1:tipo_ rdf:resource="http://example.org/Espumante"/>
+    <ns1:vale_ rdf:resource="http://example.org/7"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_37">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Rosado"/>
+    <ns1:vale_ rdf:resource="http://example.org/3"/>
+    <ns1:vale_ rdf:resource="http://example.org/7"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_42">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Espumante"/>
+    <ns1:vale_ rdf:resource="http://example.org/3"/>
+    <ns1:vale_ rdf:resource="http://example.org/7"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_38">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Espumante"/>
+    <ns1:vale_ rdf:resource="http://example.org/3"/>
+    <ns1:vale_ rdf:resource="http://example.org/7"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_16">
+    <ns1:tipo_ rdf:resource="http://example.org/Rosado"/>
+    <ns1:vale_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_23">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/5"/>
+    <ns1:vale_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_21">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_32">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:vale_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_29">
+    <ns1:tipo_ rdf:resource="http://example.org/Rosado"/>
+    <ns1:vale_ rdf:resource="http://example.org/8"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_39">
+    <ns1:tipo_ rdf:resource="http://example.org/Espumante"/>
+    <ns1:vale_ rdf:resource="http://example.org/9"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_13">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/2"/>
+    <ns1:vale_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_45">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Espumante"/>
+    <ns1:vale_ rdf:resource="http://example.org/3"/>
+    <ns1:vale_ rdf:resource="http://example.org/8"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_6">
+    <ns1:tipo_ rdf:resource="http://example.org/Rosado"/>
+    <ns1:vale_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/2"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_3">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_27">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Rosado"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_12">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/4"/>
+    <ns1:vale_ rdf:resource="http://example.org/2"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_24">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/3"/>
+    <ns1:vale_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_44">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Espumante"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+    <ns1:vale_ rdf:resource="http://example.org/8"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_18">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:vale_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_4">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+    <ns1:vale_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_35">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_5">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/2"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_14">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:vale_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_2">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/2"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_28">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Rosado"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_17">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_33">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/7"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_9">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_31">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:vale_ rdf:resource="http://example.org/7"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_43">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Espumante"/>
+    <ns1:vale_ rdf:resource="http://example.org/4"/>
+    <ns1:vale_ rdf:resource="http://example.org/7"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_22">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/2"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_10">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_26">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/8"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_7">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_25">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:vale_ rdf:resource="http://example.org/8"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_40">
+    <ns1:tipo_ rdf:resource="http://example.org/Rosado"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_20">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/4"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_36">
+    <ns1:tipo_ rdf:resource="http://example.org/Tinto"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:tipo_ rdf:resource="http://example.org/Rosado"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_34">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:vale_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_41">
+    <ns1:tipo_ rdf:resource="http://example.org/Rosado"/>
+    <ns1:vale_ rdf:resource="http://example.org/5"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/6"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/Carta_11">
+    <ns1:tipo_ rdf:resource="http://example.org/Blanco"/>
+    <ns1:Gana_PV_ rdf:resource="http://example.org/3"/>
+    <ns1:Gana_liras_ rdf:resource="http://example.org/1"/>
+  </rdf:Description>
+</rdf:RDF>

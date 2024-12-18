@@ -1,0 +1,204 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "valor_tinto": 1,
+            "valor_blanco": 0,
+            "total_cartas": 4,
+            "id": "Sangiovese"
+        },
+        {
+            "id": "Tinto"
+        },
+        {
+            "id": "Ninguno"
+        },
+        {
+            "valor_tinto": 0,
+            "valor_blanco": 1,
+            "total_cartas": 4,
+            "id": "Malvasia"
+        },
+        {
+            "id": "Blanco"
+        },
+        {
+            "valor_tinto": 1,
+            "valor_blanco": 1,
+            "total_cartas": 6,
+            "id": "Pinot"
+        },
+        {
+            "id": "Emparrado"
+        },
+        {
+            "valor_tinto": 2,
+            "valor_blanco": 0,
+            "total_cartas": 5,
+            "id": "Syrah"
+        },
+        {
+            "valor_tinto": 0,
+            "valor_blanco": 2,
+            "total_cartas": 5,
+            "id": "Trebbiano"
+        },
+        {
+            "valor_tinto": 3,
+            "valor_blanco": 0,
+            "total_cartas": 5,
+            "id": "Merlot"
+        },
+        {
+            "id": "Riego"
+        },
+        {
+            "valor_tinto": 0,
+            "valor_blanco": 3,
+            "total_cartas": 5,
+            "id": "Sauvignon_Blanc"
+        },
+        {
+            "valor_tinto": 4,
+            "valor_blanco": 0,
+            "total_cartas": 4,
+            "id": "Cabernet_Sauvignon"
+        },
+        {
+            "valor_tinto": 0,
+            "valor_blanco": 4,
+            "total_cartas": 4,
+            "id": "Chardonnay"
+        }
+    ],
+    "links": [
+        {
+            "relation": "tipo",
+            "value": "",
+            "source": "Sangiovese",
+            "target": "Tinto"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Sangiovese",
+            "target": "Ninguno"
+        },
+        {
+            "relation": "tipo",
+            "value": "",
+            "source": "Malvasia",
+            "target": "Blanco"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Malvasia",
+            "target": "Ninguno"
+        },
+        {
+            "relation": "tipo",
+            "value": "",
+            "source": "Pinot",
+            "target": "Tinto"
+        },
+        {
+            "relation": "tipo",
+            "value": "",
+            "source": "Pinot",
+            "target": "Blanco"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Pinot",
+            "target": "Emparrado"
+        },
+        {
+            "relation": "tipo",
+            "value": "",
+            "source": "Syrah",
+            "target": "Tinto"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Syrah",
+            "target": "Emparrado"
+        },
+        {
+            "relation": "tipo",
+            "value": "",
+            "source": "Trebbiano",
+            "target": "Blanco"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Trebbiano",
+            "target": "Emparrado"
+        },
+        {
+            "relation": "tipo",
+            "value": "",
+            "source": "Merlot",
+            "target": "Tinto"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Merlot",
+            "target": "Riego"
+        },
+        {
+            "relation": "tipo",
+            "value": "",
+            "source": "Sauvignon_Blanc",
+            "target": "Blanco"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Sauvignon_Blanc",
+            "target": "Riego"
+        },
+        {
+            "relation": "tipo",
+            "value": "",
+            "source": "Cabernet_Sauvignon",
+            "target": "Tinto"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Cabernet_Sauvignon",
+            "target": "Emparrado"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Cabernet_Sauvignon",
+            "target": "Riego"
+        },
+        {
+            "relation": "tipo",
+            "value": "",
+            "source": "Chardonnay",
+            "target": "Blanco"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Chardonnay",
+            "target": "Emparrado"
+        },
+        {
+            "relation": "necesita",
+            "value": "",
+            "source": "Chardonnay",
+            "target": "Riego"
+        }
+    ]
+}

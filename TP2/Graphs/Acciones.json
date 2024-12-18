@@ -1,0 +1,438 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "Tabla_de_despertar"
+        },
+        {
+            "id": "Primavera"
+        },
+        {
+            "id": "Colocar_trabajador"
+        },
+        {
+            "id": "Colocar_trabajador_grande"
+        },
+        {
+            "id": "Colocar_trabajador_en_carreta"
+        },
+        {
+            "id": "Verano"
+        },
+        {
+            "id": "Invierno"
+        },
+        {
+            "id": 1
+        },
+        {
+            "id": "Desarraigar"
+        },
+        {
+            "id": "Jugar_carta_de_visitante_de_verano"
+        },
+        {
+            "id": "Robar_carta_de_vid"
+        },
+        {
+            "id": "Hacer_un_tour_por_el_vi\u00f1edo"
+        },
+        {
+            "id": 2
+        },
+        {
+            "id": "Plantar_una_vid"
+        },
+        {
+            "id": "Vender_uva_valor_1-2-3"
+        },
+        {
+            "id": "Vender_uva_valor_4-5-6"
+        },
+        {
+            "id": "Vender_uva_valor_7-8-9"
+        },
+        {
+            "id": 3
+        },
+        {
+            "id": "Vender_terreno"
+        },
+        {
+            "id": "Comprar_terreno"
+        },
+        {
+            "id": "Construir_estructura_Sala_de_catas"
+        },
+        {
+            "id": 6
+        },
+        {
+            "id": "Construir_estructura_Bodega_mediana"
+        },
+        {
+            "id": 4
+        },
+        {
+            "id": "Construir_estructura_Bodega_grande"
+        },
+        {
+            "id": "Construir_estructura_Emparrado"
+        },
+        {
+            "id": "Construir_estructura_Molino"
+        },
+        {
+            "id": 5
+        },
+        {
+            "id": "Construir_estructura_Riego"
+        },
+        {
+            "id": "Construir_estructura_Yugo"
+        },
+        {
+            "id": "Construir_estructura_Casa_de_campo"
+        },
+        {
+            "id": "Tomar_carta_de_visitante"
+        },
+        {
+            "id": "Oto\u00f1o"
+        },
+        {
+            "id": "Robar_carta_de_pedido_de_vino"
+        },
+        {
+            "id": "Jugar_carta_de_visitante_de_invierno"
+        },
+        {
+            "id": "Cosechar_un_terreno"
+        },
+        {
+            "id": "Formar_un_nuevo_trabajador"
+        },
+        {
+            "id": "Completar_un_pedido_de_vino"
+        },
+        {
+            "id": "Produce_un_vino"
+        },
+        {
+            "id": "Envejecer_vino"
+        },
+        {
+            "id": "Fin de a\u00f1o"
+        },
+        {
+            "id": "Retirar_trabajadores"
+        },
+        {
+            "id": "Cobrar_pagos_residuales"
+        },
+        {
+            "id": "Quedarse_con_7_cartas"
+        },
+        {
+            "id": "Rotar_primer_jugador"
+        }
+    ],
+    "links": [
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Tabla_de_despertar",
+            "target": "Primavera"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Colocar_trabajador",
+            "target": "Primavera"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Colocar_trabajador_grande",
+            "target": "Primavera"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Colocar_trabajador_en_carreta",
+            "target": "Verano"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Colocar_trabajador_en_carreta",
+            "target": "Invierno"
+        },
+        {
+            "relation": "gana",
+            "value": "",
+            "source": "Colocar_trabajador_en_carreta",
+            "target": 1
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Desarraigar",
+            "target": "Verano"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Jugar_carta_de_visitante_de_verano",
+            "target": "Verano"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Robar_carta_de_vid",
+            "target": "Verano"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Hacer_un_tour_por_el_vi\u00f1edo",
+            "target": "Verano"
+        },
+        {
+            "relation": "gana",
+            "value": "",
+            "source": "Hacer_un_tour_por_el_vi\u00f1edo",
+            "target": 2
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Plantar_una_vid",
+            "target": "Verano"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Vender_uva_valor_1-2-3",
+            "target": "Verano"
+        },
+        {
+            "relation": "gana",
+            "value": "",
+            "source": "Vender_uva_valor_1-2-3",
+            "target": 1
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Vender_uva_valor_4-5-6",
+            "target": "Verano"
+        },
+        {
+            "relation": "gana",
+            "value": "",
+            "source": "Vender_uva_valor_4-5-6",
+            "target": 2
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Vender_uva_valor_7-8-9",
+            "target": "Verano"
+        },
+        {
+            "relation": "gana",
+            "value": "",
+            "source": "Vender_uva_valor_7-8-9",
+            "target": 3
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Vender_terreno",
+            "target": "Verano"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Comprar_terreno",
+            "target": "Verano"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Construir_estructura_Sala_de_catas",
+            "target": "Verano"
+        },
+        {
+            "relation": "cuesta",
+            "value": "",
+            "source": "Construir_estructura_Sala_de_catas",
+            "target": 6
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Construir_estructura_Bodega_mediana",
+            "target": "Verano"
+        },
+        {
+            "relation": "cuesta",
+            "value": "",
+            "source": "Construir_estructura_Bodega_mediana",
+            "target": 4
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Construir_estructura_Bodega_grande",
+            "target": "Verano"
+        },
+        {
+            "relation": "cuesta",
+            "value": "",
+            "source": "Construir_estructura_Bodega_grande",
+            "target": 6
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Construir_estructura_Emparrado",
+            "target": "Verano"
+        },
+        {
+            "relation": "cuesta",
+            "value": "",
+            "source": "Construir_estructura_Emparrado",
+            "target": 2
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Construir_estructura_Molino",
+            "target": "Verano"
+        },
+        {
+            "relation": "cuesta",
+            "value": "",
+            "source": "Construir_estructura_Molino",
+            "target": 5
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Construir_estructura_Riego",
+            "target": "Verano"
+        },
+        {
+            "relation": "cuesta",
+            "value": "",
+            "source": "Construir_estructura_Riego",
+            "target": 3
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Construir_estructura_Yugo",
+            "target": "Verano"
+        },
+        {
+            "relation": "cuesta",
+            "value": "",
+            "source": "Construir_estructura_Yugo",
+            "target": 2
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Construir_estructura_Casa_de_campo",
+            "target": "Verano"
+        },
+        {
+            "relation": "cuesta",
+            "value": "",
+            "source": "Construir_estructura_Casa_de_campo",
+            "target": 4
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Tomar_carta_de_visitante",
+            "target": "Oto\u00f1o"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Robar_carta_de_pedido_de_vino",
+            "target": "Invierno"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Jugar_carta_de_visitante_de_invierno",
+            "target": "Invierno"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Cosechar_un_terreno",
+            "target": "Invierno"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Formar_un_nuevo_trabajador",
+            "target": "Invierno"
+        },
+        {
+            "relation": "cuesta",
+            "value": "",
+            "source": "Formar_un_nuevo_trabajador",
+            "target": 4
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Completar_un_pedido_de_vino",
+            "target": "Invierno"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Produce_un_vino",
+            "target": "Invierno"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Envejecer_vino",
+            "target": "Fin de a\u00f1o"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Retirar_trabajadores",
+            "target": "Fin de a\u00f1o"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Cobrar_pagos_residuales",
+            "target": "Fin de a\u00f1o"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Quedarse_con_7_cartas",
+            "target": "Fin de a\u00f1o"
+        },
+        {
+            "relation": "es_acci\u00f3n_de",
+            "value": "",
+            "source": "Rotar_primer_jugador",
+            "target": "Fin de a\u00f1o"
+        }
+    ]
+}
